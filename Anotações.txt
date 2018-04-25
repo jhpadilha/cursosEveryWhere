@@ -1,0 +1,272 @@
+
+jpa criteria setMaxResults sub - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&ei=SzjfWvTMIoSYwQScsKr4BA&q=jpa+criteria+setMaxResults+sub&oq=jpa+criteria+setMaxResults+sub&gs_l=psy-ab.12...0.0.0.540.0.0.0.0.0.0.0.0..0.0....0...1c..64.psy-ab..0.0.0....0.sBcZhOmLJEA
+
+java - Criteria API returns a too small resultset - Stack Overflow
+https://stackoverflow.com/questions/2183617/criteria-api-returns-a-too-small-resultset
+
+McAfee Web Gateway - Notification
+https://www.hibernate.org/117.html#A12
+
+hibernate distinct fetch outer join - Pesquisa Google
+https://www.google.com.br/search?q=hibernate+distinct+fetch+outer+join&newwindow=1&safe=active&ei=_D7fWtSNNYaVwASLw7qIDA&start=10&sa=N&biw=1920&bih=949
+
+Sorting and pagination with Hibernate Criteria - How it can go wrong with joins — Xebia Blog
+http://blog.xebia.com/sorting-and-pagination-with-hibernate-criteria-how-it-can-go-wrong-with-joins/
+
+FAQ - Hibernate ORM
+http://hibernate.org/orm/faq/
+
+Hibernate WTF - joins and max results
+https://gist.github.com/theotherian/5993277
+
+Hibernate - Tuning Queries Using Paging, Batch Size, and Fetch Joins - DZone Database
+https://dzone.com/articles/hibernate-tuning-queries-using
+
+[HHH-1076] FETCH JOIN with DISTINCT returns duplicate values - Hibernate JIRA
+https://hibernate.atlassian.net/browse/HHH-1076
+
+JPQL Distinct com Fetch | Alura - Cursos online de tecnologia
+https://cursos.alura.com.br/forum/topico-jpql-distinct-com-fetch-49758
+
+Capítulo 14. HQL: A linguagem de Queries do Hibernate
+https://docs.jboss.org/hibernate/orm/3.3/reference/pt-BR/html/queryhql.html
+
+The DISTINCT pass-through Hibernate Query Hint - In Relation To
+http://in.relation.to/2016/08/04/introducing-distinct-pass-through-query-hint/
+
+hibernate - How do you create a Distinct query in HQL - Stack Overflow
+https://stackoverflow.com/questions/263850/how-do-you-create-a-distinct-query-in-hql
+
+FetchMode.SUBSELECT - Pesquisa Google
+https://www.google.com.br/search?q=FetchMode.SUBSELECT&oq=FetchMode.SUBSELECT&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+
+Hibernate – fetching strategies examples – Mkyong.com
+https://www.mkyong.com/hibernate/hibernate-fetching-strategies-examples/
+
+FetchMode.SUBSELECT | Rafael Ponte
+http://www.rponte.com.br/tag/fetchmode-subselect/
+
+TriadWorks - Hibernate Efetivo – erros comuns e soluções
+http://blog.triadworks.com.br/hibernate-efetivo-erros-comuns-e-solucoes
+
+Hibernate distinct results query outer join fetching - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&ei=mETfWs3DHcOWwgSAn7u4Bw&q=Hibernate+distinct+results+query+outer+join+fetching&oq=Hibernate+distinct+results+query+outer+join+fetching&gs_l=psy-ab.12..33i160k1.1356746.1386051.0.1390218.5.5.0.0.0.0.486.486.4-1.1.0....0...1c.1.64.psy-ab..4.1.485....0.LdsMX_Y-az8
+
+sql - Getting distinct rows from a left outer join - Stack Overflow
+https://stackoverflow.com/questions/788984/getting-distinct-rows-from-a-left-outer-join
+
+Database development mistakes made by application developers - Stack Overflow
+https://stackoverflow.com/questions/621884/database-development-mistakes-made-by-application-developers/621891#621891
+
+Pagination with Hibernate Criteria and DISTINCT_ROOT_ENTITY - Stack Overflow
+https://stackoverflow.com/questions/11038234/pagination-with-hibernate-criteria-and-distinct-root-entity/23618190#23618190
+
+joaquim barbosa - Pesquisa Google
+https://www.google.com.br/search?q=joaquim+barbosa&newwindow=1&safe=active&tbm=nws&ei=UWDfWuPrM4OGwgTS8LfYBQ&start=20&sa=N&biw=1920&bih=949&dpr=1
+
+Gazeta do Povo | Últimas notícias, fotos e vídeos do Brasil e do Mundo
+http://www.gazetadopovo.com.br/
+
+esquerda direita centro brasil - Pesquisa Google
+https://www.google.com.br/search?q=esquerda+direita+centro+brasil&newwindow=1&safe=active&source=lnms&sa=X&ved=0ahUKEwjirNvRsNPaAhUIF5AKHVJdAREQ_AUICSgA&biw=1920&bih=949&dpr=1
+
+Esquerda?—?Centro?—?Direita – Eduardo Ayres Soares – Medium
+https://medium.com/@ayres_eduardo/esquerda-centro-direita-8cd83dd533b8
+
+(17) Top 10 Late Night Talk Show Hosts - YouTube
+https://www.youtube.com/watch?v=QQwBsEUfMuo
+
+Hábitos: Aula 3 - Atividade 3 Características da procrastinação | Alura - Cursos online de tecnologia
+https://cursos.alura.com.br/course/habitos/task/26095
+
+Foco: Trazendo mais resultados para o dia a dia | Alura - Cursos online de tecnologia
+https://cursos.alura.com.br/course/foco-o-poder-do-habito-seu-dia-a-dia
+
+Eficácia: Hábitos para sua proatividade | Alura - Cursos online de tecnologia
+https://cursos.alura.com.br/course/habitos-eficazes
+
+git - Pesquisa Google
+https://www.google.com.br/search?q=git&oq=git&aqs=chrome..69i57j69i60l3j0j69i60.6454j0j7&sourceid=chrome&ie=UTF-8
+
+jhpadilha/cursosEveryWhere
+https://github.com/jhpadilha/cursosEveryWhere
+
+eclipse new file git - Pesquisa Google
+https://www.google.com.br/search?q=eclipse+new+file+git&oq=eclipse+new+file+git&aqs=chrome..69i57j0l2j69i60.9358j0j8&sourceid=chrome&ie=UTF-8
+
+eclipse - Can't add new file to repository in EGit - Stack Overflow
+https://stackoverflow.com/questions/12808656/cant-add-new-file-to-repository-in-egit
+
+git add remote - Pesquisa Google
+https://www.google.com.br/search?q=git+add+remote&oq=git+add&aqs=chrome.1.69i57j0l5.4196j0j7&sourceid=chrome&ie=UTF-8
+
+desenvolvwer habilidades comparar organizar simplificar - Pesquisa Google
+https://www.google.com.br/search?q=desenvolvwer+habilidades+comparar+organizar+simplificar&oq=desenvolvwer+habilidades+comparar+organizar+simplificar&aqs=chrome..69i57.16598j0j7&sourceid=chrome&ie=UTF-8
+
+Competências e Habilidades: o que são e como aplicá-las no ensino?
+https://www.somospar.com.br/competencias-e-habilidades/
+
+Curso: Aprender a aprender
+http://www.miniwebcursos.com.br/curso_aprender/modulos/aula_3/sintetizar.html
+
+Ricardo
+http://www.scielo.br/pdf/%0D/ptp/v17n2/7875.pdf
+
+competencias cognitivas - Pesquisa Google
+https://www.google.com.br/search?q=competencias+cognitivas&newwindow=1&safe=active&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiJq-DI8dLaAhXEC5AKHeLIA1UQ_AUICigB&biw=1920&bih=949#imgrc=0X7jP-Czprx1TM:
+
+Entenda o Que São as Competências e Habilidades Cognitivas
+https://blog.keeplearning.school/conteudos/o-que-sao-habilidades-cognitivas
+
+Blog de criatividade & inovação - Keep Learning School
+https://blog.keeplearning.school/
+
+competencias socio emocionais - Pesquisa Google
+https://www.google.com.br/search?q=competencias+socio+emocionais&newwindow=1&safe=active&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi1gL3T8tLaAhXKkJAKHUEjDq4Q_AUICigB&biw=1920&bih=949#imgrc=VL1hdR7pGWAzQM:
+
+github add btanch - Pesquisa Google
+https://www.google.com.br/search?q=github+add+btanch&oq=github+add+btanch&aqs=chrome..69i57j0l5.15150j0j7&sourceid=chrome&ie=UTF-8
+
+Creating and deleting branches within your repository - User Documentation
+https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/
+
+----------------------
+---------------------
+
+
+criacao evolucionismo - Pesquisa Google
+https://www.google.com.br/search?q=criacao+evolucionismo&newwindow=1&safe=active&source=lnms&sa=X&ved=0ahUKEwjEi-aqsdDaAhWCvJAKHTmGC5A4FBD8BQgJKAA&biw=1920&bih=949&dpr=1
+
+hibernate left join fetch DISTINCT_ROOT_ENTITY - Pesquisa Google
+https://www.google.com.br/search?q=hibernate+left+join+fetch+DISTINCT_ROOT_ENTITY&newwindow=1&safe=active&ei=FYPfWvilOsX7wgTN0JjICQ&start=10&sa=N&biw=1920&bih=949
+
+Hibernate Community • View topic - Fetch mode JOIN returns duplicate results
+https://forum.hibernate.org/viewtopic.php?f=1&t=960435
+
+Criteria.DISTINCT_ROOT_ENTITY vs Projections.distinct [hibernate] | CODE Q&A [English]
+https://code.i-harness.com/en/q/185a964
+
+How to Fix Duplicate Data from Hibernate Queries – How to Program with Java
+https://howtoprogramwithjava.com/how-to-fix-duplicate-data-from-hibernate-queries/
+
+hibernate - Left join fetching duplication - Stack Overflow
+https://stackoverflow.com/questions/14056457/left-join-fetching-duplication
+
+[HHH-2480] Unify join fetch behavior for HQL and Criteria APIs - Hibernate JIRA
+https://hibernate.atlassian.net/browse/HHH-2480
+
+McAfee Web Gateway - Notification
+https://hibernate.onjira.com/browse/HHH-4658
+
+CA Service Desk Manager Logon
+http://usd.procergs.reders:8080/CAisd/pdmweb.exe?SID=1594967153+FID=1+OP=LOGOUT
+
+Projections.distinct - Pesquisa Google
+https://www.google.com.br/search?q=Projections.distinct&oq=Projections.distinct&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8
+
+Criteria Distinct - Assuntos Gerais - GUJ
+http://www.guj.com.br/t/criteria-distinct/271040
+
+hibernate left join max results - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&biw=1920&bih=949&ei=honfWpGhOoGbwQSFoZeYDw&q=hibernate+left+join+max+results&oq=hibernate+left+join+max+results&gs_l=psy-ab.3...26525.29419.0.30458.9.8.0.0.0.0.459.866.4-2.2.0....0...1c.1.64.psy-ab..7.0.0....0.eLuhGI2QZgI
+
+Hibernate Community • View topic - left join (fetch) + setMaxResults
+https://forum.hibernate.org/viewtopic.php?f=1&t=971489
+
+[Hibernate] Dúvida setMaxResults() e setFirstResult() - Front-end - GUJ
+http://www.guj.com.br/t/hibernate-duvida-setmaxresults-e-setfirstresult/164957/3
+
+hibernate left join many results - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&ei=FIzfWpvVGIa0wQSlxaTYCA&q=hibernate+left+join+many+results&oq=hibernate+left+join+many+results&gs_l=psy-ab.3...180484.184578.0.185121.6.6.0.0.0.0.337.943.2-1j2.3.0....0...1c.1.64.psy-ab..3.0.0....0.BFBv-vGnoNc
+
+hibernate - Join Fetch for One To Many relationship is returning same entity multiple times - Stack Overflow
+https://stackoverflow.com/questions/39504711/join-fetch-for-one-to-many-relationship-is-returning-same-entity-multiple-times
+
+java - Hibernate Criteria returns children multiple times with FetchType.EAGER - Stack Overflow
+https://stackoverflow.com/questions/1995080/hibernate-criteria-returns-children-multiple-times-with-fetchtype-eager
+
+hibernate FetchMode.SELECT - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&ei=R47fWrS4B8ybwgTi4ZKgBA&q=hibernate+FetchMode.SELECT&oq=hibernate+FetchMode.SELECT&gs_l=psy-ab.3..0i203k1j0i22i30k1l4j0i22i10i30k1j0i22i30k1l4.707.3465.0.4339.11.9.0.0.0.0.443.1361.2-1j2j1.4.0....0...1c.1.64.psy-ab..7.4.1359...0j35i39k1j0i131k1.0.o1sIreLhfFQ
+
+Hibernate FetchMode SELECT vs JOIN - Stack Overflow
+https://stackoverflow.com/questions/35248385/hibernate-fetchmode-select-vs-join
+
+fetch - Hibernate fetching strategy - when to use "join" and when to use "select"? - Stack Overflow
+https://stackoverflow.com/questions/617145/hibernate-fetching-strategy-when-to-use-join-and-when-to-use-select
+
+~ Java Tutorial
+http://javawebtutorial.blogspot.com.br/2013/09/hibernate-fetching-strategies.html/%22Hibernate%20Fetching%20Strategies%22
+
+hibernate transformando hql com criteria - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&ei=WpnfWsunCpPTwgTqp7jYBQ&q=hibernate+transformando+hql+com+criteria&oq=hibernate+transformando+hql+com+criteria&gs_l=psy-ab.3...18197.24454.0.25587.14.12.0.0.0.0.527.2141.3-1j3j1.5.0....0...1c.1.64.psy-ab..11.0.0....0.2B_uTUhx9vk
+
+Hibernate Criteria Queries | Baeldung
+http://www.baeldung.com/hibernate-criteria-queries
+
+hibernate - Como fazer essa consulta com Criteria Hibernate envolvendo uma Collection?
+http://respostas.guj.com.br/1866-como-fazer-essa-consulta-com-criteria-hibernate-envolvendo-uma-collection
+
+HQL vs Criteria example
+https://gist.github.com/rponte/1351603
+
+Capítulo 15. Consultas por critérios
+https://docs.jboss.org/hibernate/orm/3.3/reference/pt-BR/html/querycriteria.html
+
+Hibernate avançado-hql-criteria
+https://pt.slideshare.net/walter.mourao/hibernate-avanadohqlcriteria
+
+Hibernate Criteria examples – Mkyong.com
+https://www.mkyong.com/hibernate/hibernate-criteria-examples/
+
+Divisions com Hibernate: uso avançado da Criteria API - Blog da Caelum: desenvolvimento, web, mobile, UX e Scrum
+http://blog.caelum.com.br/divisions-com-hibernate-uso-avancado-da-criteria-api/
+
+Trabalhando com Relacionamentos: bancos de dados baseados em grafos e o Neo4j - Blog da Caelum: desenvolvimento, web, mobile, UX e Scrum
+http://blog.caelum.com.br/trabalhando-com-relacionamentos-bancos-de-dados-baseados-em-grafos-e-o-neo4j/
+
+Consultas fortemente tipadas com JPA - Blog da Caelum: desenvolvimento, web, mobile, UX e Scrum
+http://blog.caelum.com.br/consultas-fortemente-tipadas-com-jpa/
+
+hibernate get criteria hql - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&biw=1920&bih=949&ei=apzfWt2CA4SBwgSZ26SQAg&q=hibernate+get+criteria+hql&oq=hibernate+get+criteria+hql&gs_l=psy-ab.3..0i8i30k1l2.19907.19907.0.21538.1.1.0.0.0.0.249.249.2-1.1.0....0...1c.1.64.psy-ab..0.1.249....0.wbhDNsWZ294
+
+Using Criteria in Hibernate for Advanced Queries - Developer.com
+https://www.developer.com/db/using-criteria-in-hibernate-for-advanced-queries.html
+
+java - JPA and Hibernate - Criteria vs. JPQL or HQL - Stack Overflow
+https://stackoverflow.com/questions/197474/jpa-and-hibernate-criteria-vs-jpql-or-hql
+
+Help : Need to retrieve SQL Query from Criteria or HQL (SQL which is generated by Hibernate) (Object Relational Mapping forum at Coderanch)
+https://coderanch.com/t/481680/databases/retrieve-SQL-Query-Criteria-HQL
+
+Chapter 9. Criteria Queries
+https://docs.jboss.org/hibernate/entitymanager/3.5/reference/en/html/querycriteria.html
+
+Hibernate Community • View topic - How to query subclasses in Hibernate using Criteria or HQL?
+https://forum.hibernate.org/viewtopic.php?f=1&t=1011851
+
+Hibernate Community • View topic - Howto get SQL generated for Criteria?
+https://forum.hibernate.org/viewtopic.php?f=1&t=1006845
+
+Hibernate Criteria Queries Tutorial and Examples - HowToDoInJava
+https://howtodoinjava.com/hibernate/hibernate-criteria-queries-tutorial-and-examples/
+
+[RESOLVIDO] Select column from table com Hibernate, Criteria, HQL - Programação / Java - GUJ
+http://www.guj.com.br/t/resolvido-select-column-from-table-com-hibernate-criteria-hql/343743
+
+Bug 129985: Pesquisa de processo não mostrando todos processos cadastrados - Microsoft Team Foundation Server
+https://tfs.pro.intra.rs.gov.br/tfs/PROCERGSCollection/DTS.ST1.GFI/_workitems?id=129985&_a=edit
+
+escolhacollection2.png (1867×993)
+https://sergiotaborda.files.wordpress.com/2008/07/escolhacollection2.png
+
+Nova guia
+chrome://newtab/
+
+java thecnical
+java wealth
+java patterns
+
+ser bem sucedido
+habilidades interpessoaishabilidades interpessoais
