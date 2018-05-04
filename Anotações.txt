@@ -665,3 +665,525 @@ https://developer.jboss.org/thread/220520
 xml - Referenced file contains errors (jar:file:/.../plugins/org.jboss.tools.jst.web_3.5.0.Final-v20130717-0309-B75.jar!/catalog/web-facesconfig_2_2.xsd) - Stack Overflow
 https://stackoverflow.com/questions/18842486/referenced-file-contains-errors-jarfile-plugins-org-jboss-tools-jst-web-3
 
+(17) We Are Legendado - Kari Jobe - YouTube
+https://www.youtube.com/watch?v=RJ4flWlZISQ&index=16&list=PLrhQ-b_IKzr3vL7BLfP6-N01Yt4B0_Hsz
+
+Expresso Livre - Conectar
+https://expresso.rs.gov.br/login.php?cd=10&phpgw_forward=%2Fhome.php
+
+Fábrica Interna - GFI Sprint 3 - Refatoração do Registro Contábil - Microsoft Team Foundation Server
+https://tfs.pro.intra.rs.gov.br/tfs/PROCERGSCollection/DTS.ST1.GFI/F%C3%A1brica%20Interna%20-%20GFI/_backlogs/Iteration
+
+attachfilehandler.ashx (1918×950)
+https://tfs.pro.intra.rs.gov.br/tfs/procergscollection/workitemtracking/v1.0/attachfilehandler.ashx?filenameguid=4d747899-08e7-4200-8761-c027d761fc48&filename=temp1524511517576.png
+
+GFI - GID Financeiro
+http://localhost:8180/gfi/dividaativa/processo/processo-detail.xhtml?windowId=863&idProcesso=719&paginaOrigem=PROCESSO_LIST
+
+ORACLE STATEMENT CASE WHEEN - Pesquisa Google
+https://www.google.com.br/search?q=ORACLE+STATEMENT+CASE+WHEEN&oq=ORACLE+STATEMENT+CASE+WHEEN&aqs=chrome..69i57j0.7811j0j7&sourceid=chrome&ie=UTF-8
+
+CASE Expressions
+https://docs.oracle.com/cd/B19306_01/server.102/b14200/expressions004.htm
+
+ORACLE SELECT ALIAS - Pesquisa Google
+https://www.google.com.br/search?q=ORACLE+SELECT+ALIAS&oq=ORACLE+SELECT+ALIAS&aqs=chrome..69i57j35i39j0l4.7647j0j7&sourceid=chrome&ie=UTF-8
+
+oracle - Oracle select alias
+http://respostas.guj.com.br/13702-oracle-select-alias
+
+oracle function trunc decimal - Pesquisa Google
+https://www.google.com.br/search?q=oracle+function+trunc+decimal&oq=oracle+function+trunc+decimal&aqs=chrome..69i57j0l5.7703j0j7&sourceid=chrome&ie=UTF-8
+
+TRUNC (number)
+https://docs.oracle.com/cd/B19306_01/server.102/b14200/functions200.htm
+
+divina providencia - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&q=divina+providencia&npsic=0&rflfq=1&rlha=0&rllag=-30073551,-51181070,3310&tbm=lcl&ved=0ahUKEwj1mvi_h-raAhUFDZAKHVJ0DSQQtgMIPQ&tbs=lrf:!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2&rldoc=1#rlfi=hd:;si:,-30.061076637423923,-51.204610161963615;mv:!1m3!1d28918.354339849786!2d-51.16976290244213!3d-30.06731644519318!3m2!1i1500!2i804!4f13.1
+
+java lambda sort list - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&ei=w13rWo7PM8unwAS_zrOICg&q=java+lambda+sort+list&oq=java+lambda+sort+list&gs_l=psy-ab.3..0i203k1l2j0i8i30k1l2.6172.10275.0.11033.6.6.0.0.0.0.662.1572.3-1j0j2.3.0....0...1c.1.64.psy-ab..3.3.1569...0i7i10i30k1j0i7i30k1j0i8i7i30k1j0i19k1j0i8i13i30i19k1.0.v-KXxiQvUmI
+
+Using Lambda Expression to Sort a List in Java 8 using NetBeans Lambda Support - DZone Java
+https://dzone.com/articles/using-lambda-expression-sort
+
+java comparto multi columns - Pesquisa Google
+https://www.google.com.br/search?q=java+comparto+multi+columns&oq=java+comparto+multi+columns&aqs=chrome..69i57j69i60j35i39j0l3.8895j0j7&sourceid=chrome&ie=UTF-8
+
+java - Collections.sort with multiple fields - Stack Overflow
+https://stackoverflow.com/questions/4258700/collections-sort-with-multiple-fields
+
+colection sort lambda multi columns - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&ei=jF_rWq36OcKswgSfxJroDg&q=colection+sort+lambda+multi+columns&oq=colection+sort+lambda+multi+columns&gs_l=psy-ab.3...78327.82153.0.82328.13.11.0.0.0.0.583.583.5-1.1.0....0...1c.1.64.psy-ab..12.1.581...33i22i29i30k1.0.hmmKs-sU9wU
+
+Java 8 Lambda : Comparator example – Mkyong.com
+https://www.mkyong.com/java8/java-8-lambda-comparator-example/
+
+java - Sorting multiple attribute with Lambda Expressions - Stack Overflow
+https://stackoverflow.com/questions/33326657/sorting-multiple-attribute-with-lambda-expressions
+
+Sorting lists on multiple fields in Java 8 | Erik Lundblad
+https://www.eriklundblad.com/log/post/sorting-lists-on-multiple-fields-in-java-8/
+
+Java Comparator Example using Lambda - HowToDoInJava
+https://howtodoinjava.com/java-8/using-comparator-becomes-easier-with-lambda-expressions-java-8/
+
+java sort lambda comparator - Pesquisa Google
+https://www.google.com.br/search?q=java+sort+lambda+comparator&oq=java+sort+lambda+comparator&aqs=chrome..69i57j69i60j69i65j69i60l2j69i59.6743j0j7&sourceid=chrome&ie=UTF-8
+
+Java 8 - Comparison with Lambdas | Baeldung
+http://www.baeldung.com/java-8-sort-lambda
+
+java set to list - Pesquisa Google
+https://www.google.com.br/search?q=java+set+to+list&oq=java+set+to+list&aqs=chrome..69i57l2j69i65j69i60l3.3390j0j7&sourceid=chrome&ie=UTF-8
+
+Converting between a List and a Set in Java | Baeldung
+http://www.baeldung.com/convert-list-to-set-and-set-to-list
+
+java collections sort alphabetic - Pesquisa Google
+https://www.google.com.br/search?q=java+collections+sort+alphabetic&oq=java+collections+sort+alphabetic&aqs=chrome..69i57j0l5.10055j0j7&sourceid=chrome&ie=UTF-8
+
+sorting - Alphabetically Sort a Java Collection based upon the 'toString' value of its member items - Stack Overflow
+https://stackoverflow.com/questions/554769/alphabetically-sort-a-java-collection-based-upon-the-tostring-value-of-its-mem
+
+escolhacollection2.png (1867×993)
+https://sergiotaborda.files.wordpress.com/2008/07/escolhacollection2.png
+
+jpa set sort - Pesquisa Google
+https://www.google.com.br/search?q=jpa+set+sort&oq=jpa+set+sort&aqs=chrome..69i57.5661j0j7&sourceid=chrome&ie=UTF-8
+
+Ordering vs Sorting with Hibernate - What should you use?
+https://www.thoughts-on-java.org/ordering-vs-sorting-hibernate-use/
+
+Ordering Collections with JPA – Johannes Neubauer
+https://www.kingsware.de/2011/03/15/ordering-collections-with-jpa/
+
+Sorting Collections in Hibernate Using SQL in @OrderBy - DZone Java
+https://dzone.com/articles/sorting-collections-hibernate
+
+jpa - Change default sort order for Spring Data findAll() method - Stack Overflow
+https://stackoverflow.com/questions/29031028/change-default-sort-order-for-spring-data-findall-method
+
+JPA/hibernate sorted collection @OrderBy vs @Sort - Stack Overflow
+https://stackoverflow.com/questions/19871765/jpa-hibernate-sorted-collection-orderby-vs-sort
+
+java jpa set order - Pesquisa Google
+https://www.google.com.br/search?q=java+jpa+set+order&oq=java+jpa+set+order&aqs=chrome..69i57j0.18950j0j7&sourceid=chrome&ie=UTF-8
+
+java - Saving order of a List in JPA - Stack Overflow
+https://stackoverflow.com/questions/2643641/saving-order-of-a-list-in-jpa
+
+Java Persistence/Relationships - Wikibooks, open books for an open world
+https://en.wikibooks.org/wiki/Java_Persistence/Relationships#Example_of_a_collection_order_column_annotation
+
+jpa @OrderColumn exampple - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&ei=5YLrWvrnHsbEwATA0ZP4AQ&q=jpa+%40OrderColumn+exampple&oq=jpa+%40OrderColumn+exampple&gs_l=psy-ab.3...31151.35382.0.35565.12.11.0.0.0.0.425.1085.3-2j1.3.0....0...1c.1.64.psy-ab..9.3.1084...0i22i30k1j0i22i10i30k1j35i39k1.0.XLld0skkIus
+
+Example of @OrderColumn in Hibernate
+https://www.concretepage.com/hibernate/example-ordercolumn-hibernate
+
+Just try to use OrderColumn
+https://nozaki.me/roller/kyle/entry/articles-jpa-ordercolumn
+
+JavaEE Sample::JPA::Ordercolumn
+http://javaee-samples.github.io/sample/jpa-ordercolumn/index.html
+
+JPA OrderColumn Example - theJavaGeek
+http://www.thejavageek.com/2014/09/24/jpa-ordercolumn-example/
+
+JPA 2.0 @OrderColumn annotation in Hibernate 3.5 - Stack Overflow
+https://stackoverflow.com/questions/2956171/jpa-2-0-ordercolumn-annotation-in-hibernate-3-5
+
+Chapter 7. Collection mapping
+http://docs.jboss.org/hibernate/core/3.6/reference/en-US/html/collections.html#collections-indexed
+
+Expresso Livre [Agenda de Eventos]
+http://expresso.rs.gov.br/index.php?menuaction=calendar.uicalendar.view&cal_id=1206907
+
+(17) YouTube
+https://www.youtube.com/
+
+Hábitos: Aula 2 - Atividade 12 Dicas para acordar cedo | Alura - Cursos online de tecnologia
+https://cursos.alura.com.br/course/habitos/task/32432
+
+Hábitos: Aula 2 - Atividade 1 Mudança de hábito | Alura - Cursos online de tecnologia
+https://cursos.alura.com.br/course/habitos/task/26086
+
+5w2h - Pesquisa Google
+https://www.google.com.br/search?q=5w2h&newwindow=1&safe=active&tbm=isch&source=iu&ictx=1&fir=Nqh57XrxH_YrQM%253A%252C7u-SZnTKRF1NHM%252C_&usg=__oEN7lEPncVPGmKAjdMbye2lL4mI%3D&sa=X&ved=0ahUKEwid_Z3s7ebaAhXKgZAKHe1bD8MQ9QEIRTAC#imgrc=87z-VBNJZS56jM:
+
+A Gestão do Conhecimento com o Toolbox 360º e o Toolbox Wall – InPRO
+http://inovacao.blog.procergs.reders/2018/04/27/a-gestao-do-conhecimento-atraves-do-mural-toolbox/
+
+eclipse CollectionUtils template - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&ei=UK_pWqaFNciOwgTi_YKgCw&q=eclipse+CollectionUtils+template&oq=eclipse+CollectionUtils+template&gs_l=psy-ab.3..35i39k1.34216.34400.0.34654.2.2.0.0.0.0.246.246.2-1.1.0....0...1c.1.64.psy-ab..1.1.246....0.FGtCsarMDxU
+
+Java Code Examples of org.apache.commons.collections.Predicate
+http://www.javased.com/?api=org.apache.commons.collections.Predicate
+
+sintomas pneumonia - Pesquisa Google
+https://www.google.com.br/search?q=sintomas+pneumonia&oq=sintomas+pneumonia&aqs=chrome..69i57j69i60l5.4102j0j7&sourceid=chrome&ie=UTF-8
+
+Pneumonia
+https://drauziovarella.uol.com.br/entrevistas-2/pneumonia-2/
+
+habitos chave - Pesquisa Google
+https://www.google.com.br/search?q=habitos+chave&newwindow=1&safe=active&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjrtpast-naAhXQyVMKHV0uCNwQ_AUICigB&biw=958&bih=929#imgrc=o9mweG9lTLMxdM:
+
+Startups - 5 Livros Para Empreendedor Ler
+http://diegocarmona.com.br/startups-5-livros-para-empreendedor-ler/
+
+fundatec - Pesquisa Google
+https://www.google.com.br/search?q=fundatec&oq=fundatec&aqs=chrome..69i57j0l5.2406j0j7&sourceid=chrome&ie=UTF-8
+
+Apresentação - Fundatec
+http://www.fundatec.org.br/portal/informativos/
+
+Concursos - Fundatec
+http://www.fundatec.org.br/portal/concursos/
+
+
+
+
+Comparator<InfracaoProcessoED> comparator = (o1, o2) -> o1.getSituacaoExclusaoLogica().getCodigo().compareTo(o2.getSituacaoExclusaoLogica().getCodigo());
+    comparator.thenComparing((o1, o2) -> o1.getIndPaga().compareTo(o2.getIndPaga()));
+    
+    Set<InfracaoProcessoED> infracoesProcessoED = processoED.getInfracoesProcessoED();
+    Collections.sort(new ArrayList<>(infracoesProcessoED), new Comparator<InfracaoProcessoED>() {
+      @Override
+      public int compare(InfracaoProcessoED h1, InfracaoProcessoED h2) {
+        int retorno = h1.getSituacaoExclusaoLogica().getCodigo().compareTo(h2.getSituacaoExclusaoLogica().getCodigo());
+        
+        if (retorno == 0){ 
+          retorno = h1.getIndPaga().compareTo(h2.getIndPaga());
+          if (retorno == 0){
+            retorno = 1;
+          }
+            
+        }
+        
+        return retorno;
+      }
+  } ); 
+    
+    for  (InfracaoProcessoED infracaoProcessoED : infracoesProcessoED) {
+      String tmp = " " + infracaoProcessoED.getIndPaga() + infracaoProcessoED.getSituacaoExclusaoLogica().getCodigo();
+      System.out.println(tmp);
+    }
+    
+    
+    processoED.setInfracoesProcessoED(new HashSet<>(infracoesProcessoED));
+	
+	
+	
+<style type="text/css">
+			#periodoPesquisaPagamentoRowPanel {
+				padding: 0 !important;
+				border: 0 !important;
+				display:inline-block;
+				float:left;
+			}
+			
+			#periodoPesquisaPagamentoRowPanel > .ui-panel-content.ui-widget-content {
+				    padding-left: 0px !important;
+			}
+		</style>	
+
+		
+		(17) EYSHILA - AS 10 MELHORES ? ? ? - YouTube
+https://www.youtube.com/watch?v=eSlIqXFIHTs&index=11&list=PLS4khkO_KGoHZ8T7doVmwFxyMsRmh4lXY
+
+java create array list sorted - Pesquisa Google
+https://www.google.com.br/search?q=java+create+array+list+sorted&oq=java+create+array+list+sorted&aqs=chrome..69i57j0l2.12256j0j8&sourceid=chrome&ie=UTF-8
+
+How to sort ArrayList in Java
+https://beginnersbook.com/2013/12/how-to-sort-arraylist-in-java/
+
+java - How to sort an ArrayList? - Stack Overflow
+https://stackoverflow.com/questions/16252269/how-to-sort-an-arraylist
+
+Java ArrayList of Object Sort Example (Comparable And Comparator)
+https://beginnersbook.com/2013/12/java-arraylist-of-object-sort-example-comparable-and-comparator/
+
+GFI - GID Financeiro
+https://secweb.des.intra.rs.gov.br/gfi/dividaativa/processo/processo-detail.xhtml?windowId=af8&idProcesso=1187&paginaOrigem=PROCESSO_LIST
+
+comunidade java - Pesquisa Google
+https://www.google.com.br/search?q=comunidade+java&oq=comunidade+java&aqs=chrome..69i57j69i60l4j69i65.3334j0j7&sourceid=chrome&ie=UTF-8
+
+6 COMUNIDADES JAVA PARA CONHECER
+http://www.brasilmaisti.com.br/index.php/es/10-fique-por-dentro/blog/260-6-comunidades-java-para-conhecer
+
+McAfee Web Gateway - Notification
+http://www.varallos.com.br/site/
+
+Search results for 'java hashset ordena' - GUJ
+http://www.guj.com.br/search?q=java%20hashset%20ordena
+
+HashSet: Qual a vantagem?[Resolvido] - Programação / Java - GUJ
+http://www.guj.com.br/t/hashset-qual-a-vantagem-resolvido/36940/3
+
+Diferenças na ordenação de HashSet - Programação / Java - GUJ
+http://www.guj.com.br/t/diferencas-na-ordenacao-de-hashset/52651/4
+
+escolhacollection2.png (1867×993)
+https://sergiotaborda.files.wordpress.com/2008/07/escolhacollection2.png
+
+Ordenar um HashSet - Assuntos Gerais - GUJ
+http://www.guj.com.br/t/ordenar-um-hashset/3533
+
+Consultas RH - Procergs
+http://intranet/contracheque/
+
+Fábrica Interna - GFI Sprint 3 - Refatoração do Registro Contábil - Microsoft Team Foundation Server
+https://tfs.pro.intra.rs.gov.br/tfs/PROCERGSCollection/DTS.ST1.GFI/F%C3%A1brica%20Interna%20-%20GFI/_backlogs/Iteration
+
+java jpa @OrderBy set - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&ei=yVnsWpqjEYWjwATk86uoCg&q=java+jpa+%40OrderBy+set+&oq=java+jpa+%40OrderBy+set+&gs_l=psy-ab.3...29210.31950.0.32564.4.4.0.0.0.0.485.1018.2-2j0j1.3.0....0...1c.1.64.psy-ab..1.1.278...35i39k1.0.v8FZK4SChUg
+
+Sorting with JPA | Baeldung
+http://www.baeldung.com/jpa-sort
+
+JPA/Hibernate @OrderBy annotation with multiple columns and ASC/DESC for each - Stack Overflow
+https://stackoverflow.com/questions/42085629/jpa-hibernate-orderby-annotation-with-multiple-columns-and-asc-desc-for-each
+
+java - @OrderBy not working properly in JPA - Stack Overflow
+https://stackoverflow.com/questions/16965877/orderby-not-working-properly-in-jpa
+
+OrderBy (Java EE 6 )
+https://docs.oracle.com/javaee/6/api/javax/persistence/OrderBy.html
+
+jpa @ElementCollection - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&ei=6VrsWuu_MouXwASPoLDIBQ&q=jpa+%40ElementCollection&oq=jpa+%40ElementCollection&gs_l=psy-ab.3..0i7i30k1j0j0i7i30k1l2j0i7i10i30k1l2j0i203k1j0i10i30k1j0i30k1l2.2435.3158.0.4146.4.4.0.0.0.0.389.723.3-2.2.0....0...1c.1.64.psy-ab..2.2.721....0.RC5c_Cumjz0
+
+java - Difference between @OneToMany and @ElementCollection? - Stack Overflow
+https://stackoverflow.com/questions/8969059/difference-between-onetomany-and-elementcollection
+
+GFI - GID Financeiro
+http://localhost:8180/gfi/dividaativa/processo/processo-detail.xhtml?windowId=e42&idProcesso=719&paginaOrigem=PROCESSO_LIST
+
+java jpa @sortedSet - Pesquisa Google
+https://www.google.com.br/search?q=java+jpa+%40sortedSet&oq=java+jpa+%40sortedSet&aqs=chrome..69i57j69i58.7894j0j7&sourceid=chrome&ie=UTF-8
+
+Hibernate 4 @SortComparator and @SortNatural Example for SortedSet Mapping
+https://www.concretepage.com/hibernate-4/hibernate-4-sortcomparator-and-sortnatural-example-for-sortedset-mapping
+
+Hibernate Tip: Sort and Order | Java Code Geeks - 2018
+https://www.javacodegeeks.com/2012/04/hibernate-tip-sort-and-order.html
+
+jpa query comum - Pesquisa Google
+https://www.google.com.br/search?q=jpa+query+comum&oq=jpa+query+comum&aqs=chrome..69i57.2159j0j7&sourceid=chrome&ie=UTF-8
+
+Simplifique suas consultas com o Query By Example do Hibernate - Blog da Caelum: desenvolvimento, web, mobile, UX e Scrum
+http://blog.caelum.com.br/simplifique-suas-consultas-com-o-query-by-example-do-hibernate/
+
+primefaces datatable disable selection - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&ei=SWvsWva2LYS6wASAvoB4&q=primefaces+datatable+disable+selection&oq=primefaces+datatable+disable+selection&gs_l=psy-ab.3..0i203k1l2j0i22i30k1l2.999248.1002471.0.1003310.11.10.0.0.0.0.692.1718.4-1j2.3.0....0...1c.1.64.psy-ab..8.3.1718...0j0i13i30k1j0i8i13i30k1.0.YQeb2ohPtjY
+
+jsf - Disable row selection for a few rows only - Primefaces - Stack Overflow
+https://stackoverflow.com/questions/6395593/disable-row-selection-for-a-few-rows-only-primefaces
+
+<p:datatable> way to disable row selection checkboxes - Prime Community Forum
+https://forum.primefaces.org/viewtopic.php?f=3&t=14029
+
+jsf - Hide p:dataTable selection checkbox based on row criteria - Stack Overflow
+https://stackoverflow.com/questions/14959622/hide-pdatatable-selection-checkbox-based-on-row-criteria
+
+css select sub element - Pesquisa Google
+https://www.google.com.br/search?q=css+select+sub+element&oq=css+select+sub+element&aqs=chrome..69i57j0l5.7663j0j8&sourceid=chrome&ie=UTF-8
+
+css selectors - Apply CSS Style to child elements - Stack Overflow
+https://stackoverflow.com/questions/632100/apply-css-style-to-child-elements
+
+Selectors
+https://www.w3.org/TR/CSS2/selector.html#descendant-selectors
+
+css disable click over - Pesquisa Google
+https://www.google.com.br/search?q=css+disable+click+over&oq=css+disable+click+over&aqs=chrome..69i57j0l5.7279j0j7&sourceid=chrome&ie=UTF-8
+
+pointer-events | CSS-Tricks
+https://css-tricks.com/almanac/properties/p/pointer-events/
+
+html - How to disable a link using only CSS? - Stack Overflow
+https://stackoverflow.com/questions/2091168/how-to-disable-a-link-using-only-css
+
+Google Tradutor
+https://translate.google.com/#en/pt/toggle
+
+freedictionary - Pesquisa Google
+https://www.google.com.br/search?q=freedictionary&oq=freedictionary&aqs=chrome.0.0l6.11670j1j7&sourceid=chrome&ie=UTF-8
+
+Toggle - definition of toggle by The Free Dictionary
+https://www.thefreedictionary.com/toggle
+
+css select parent - Pesquisa Google
+https://www.google.com.br/search?q=css+select+parent&oq=css+select+parent&aqs=chrome..69i57j0l5.6047j0j7&sourceid=chrome&ie=UTF-8
+
+Is there a CSS parent selector? - Stack Overflow
+https://stackoverflow.com/questions/1014861/is-there-a-css-parent-selector
+
+css select element child class - Pesquisa Google
+https://www.google.com.br/search?q=css+select+element+child+class&oq=css+select+element+child+class&aqs=chrome..69i57j69i60j0l4.11279j0j7&sourceid=chrome&ie=UTF-8
+
+Child and Sibling Selectors | CSS-Tricks
+https://css-tricks.com/child-and-sibling-selectors/
+
+Parent Selectors in CSS | CSS-Tricks
+https://css-tricks.com/parent-selectors-in-css/
+
+css parent selector example - Pesquisa Google
+https://www.google.com.br/search?q=css+parent+selector+example&oq=css+parent+selector+example&aqs=chrome..69i57j69i60j0l4.6478j0j7&sourceid=chrome&ie=UTF-8
+
+Selecting Parent Elements With CSS and jQuery
+https://webdesign.tutsplus.com/tutorials/selecting-parent-elements-with-css-and-jquery--cms-26423
+
+primefaces get paren css - Pesquisa Google
+https://www.google.com.br/search?q=primefaces+get+paren+css&oq=primefaces+get+paren+css&aqs=chrome..69i57j0.9367j0j7&sourceid=chrome&ie=UTF-8
+
+How to use JSF generated HTML element ID with colon ":" in CSS selectors? - Stack Overflow
+https://stackoverflow.com/questions/5878692/how-to-use-jsf-generated-html-element-id-with-colon-in-css-selectors
+
+(17) inspiron 5000 13 - YouTube
+https://www.youtube.com/results?search_query=inspiron+5000+13
+
+(17) 13 Slang Phrases You Need To Know | American English Vocabulary Lesson - YouTube
+https://www.youtube.com/watch?v=vqHbav_fZZk
+
+(17) Musica para trabalhar e estudar com energia, animado, concentrado, instrumental - Musica alegre - YouTube
+https://www.youtube.com/watch?v=ieuH7JS65t8
+
+After Effects: Composição e Sonorização de Animação | Alura - Cursos online de tecnologia
+https://cursos.alura.com.br/course/after-effects-composicao-e-sonorizacao-de-animacao
+
+sortedset A sorted collection must define and ordering or sorting - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&ei=5JbsWrveDIyWwgTT4amIBw&q=sortedset+A+sorted+collection+must+define+and+ordering+or+sorting&oq=sortedset+A+sorted+collection+must+define+and+ordering+or+sorting&gs_l=psy-ab.3...6165.8483.0.8643.10.9.0.0.0.0.389.712.3-2.2.0....0...1c.1.64.psy-ab..10.0.0....0.29-WONRrQjI
+
+java - How to have a sorted set of objects based on a specific field? - Stack Overflow
+https://stackoverflow.com/questions/30838526/how-to-have-a-sorted-set-of-objects-based-on-a-specific-field
+
+Ordering vs Sorting with Hibernate - What should you use?
+https://www.thoughts-on-java.org/ordering-vs-sorting-hibernate-use/
+
+SortComparator (Hibernate JavaDocs)
+https://docs.jboss.org/hibernate/orm/5.1/javadocs/org/hibernate/annotations/SortComparator.html
+
+GFI - GID Financeiro
+http://localhost:8180/gfi/dividaativa/processo/processo-detail.xhtml?windowId=cb6&idProcesso=719&paginaOrigem=PROCESSO_LIST
+
+java collection selection - Pesquisa Google
+https://www.google.com.br/search?q=java+collection+selection&newwindow=1&safe=active&source=lnms&tbm=isch&sa=X&ved=0ahUKEwif7qf30ezaAhWEkpAKHSo8AlAQ_AUICigB&biw=958&bih=929#imgrc=MVmvnYsj-MDsJM:
+
+main-qimg-0fd1a150a8d73fe87f7a3137d37a4158 (602×437)
+https://qph.fs.quoracdn.net/main-qimg-0fd1a150a8d73fe87f7a3137d37a4158
+
+collections.png (802×915)
+https://kaanmutlu.files.wordpress.com/2011/12/collections.png
+
+Java-Collections-cheat-sheet.png (3508×2480)
+https://zeroturnaround.com/wp-content/uploads/2016/04/Java-Collections-cheat-sheet.png
+
+escolhacollection2.png (1867×993)
+https://sergiotaborda.files.wordpress.com/2008/07/escolhacollection2.png
+
+(3760) Caixa de entrada - Expresso Livre
+http://expresso.rs.gov.br/expressoMail/index.php
+
+distro mais utilizadas linux - Pesquisa Google
+https://www.google.com.br/search?q=distro+mais+utilizadas+linux&oq=distro+mais+utilizadas+linux&aqs=chrome..69i57j0.7063j0j7&sourceid=chrome&ie=UTF-8
+
+Top 10 distribuições Linux - Portal GSTI
+https://www.portalgsti.com.br/2017/01/top-10-distribuicoes-linux.html
+
+TOP 10 – Distribuições GNU/Linux mais populares em 2017
+https://pplware.sapo.pt/linux/top-10-distribuicoes-gnulinux-populares-2017/
+
+elementary OS - Pesquisa Google
+https://www.google.com.br/search?q=elementary+OS&newwindow=1&safe=active&source=lnms&sa=X&ved=0ahUKEwi0t8Gh2ezaAhXIFJAKHbV0CbAQ_AUICSgA&biw=1920&bih=949&dpr=1
+
+Manjaro Linux - Pesquisa Google
+https://www.google.com.br/search?q=Manjaro+Linux&newwindow=1&safe=active&source=lnms&sa=X&ved=0ahUKEwiyhbOG2ezaAhWDFJAKHeaJDVAQ_AUICSgA&biw=1920&bih=949&dpr=1
+
+Linux Mint - Pesquisa Google
+https://www.google.com.br/search?q=Linux+Mint&oq=Linux+Mint&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+
+java treeset remove duplicates - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&biw=1920&bih=949&ei=tqnsWsBywaXABKXnjYgG&q=java+treeset+remove+duplicates&oq=java+treeset+dupli&gs_l=psy-ab.3.5.0i203k1l2j0i22i30k1l8.63467.87967.0.97804.29.27.2.0.0.0.950.4670.3-2j4j2j1.9.0....0...1c.1.64.psy-ab..18.9.4216...33i21k1j33i160k1j33i22i29i30k1j35i39k1j0i30k1.0.IwdGlkGur38
+
+A Simple Java TreeSet Example
+https://www.programcreek.com/2009/02/a-simple-treeset-example/
+
+asortedset implementation - Pesquisa Google
+https://www.google.com.br/search?q=asortedset+implementation&oq=asortedset+implementation&aqs=chrome..69i57j0l5.6582j0j7&sourceid=chrome&ie=UTF-8
+
+SortedSet (Java Platform SE 7 )
+https://docs.oracle.com/javase/7/docs/api/java/util/SortedSet.html
+
+Java Collections - SortedSet
+http://tutorials.jenkov.com/java-collections/sortedset.html
+
+Java The SortedSet Interface
+https://www.tutorialspoint.com/java/java_sortedset_interface.htm
+
+sortedset java example - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&q=sortedset%20java%20example&ved=0ahUKEwjdlYbH2-zaAhXFQ5AKHRK_D2IQsKwBCDgoADAA
+
+Java Sorted Set Example | Examples Java Code Geeks - 2018
+https://examples.javacodegeeks.com/core-java/util/set/java-sorted-set-example/
+
+SortedSet Interface in Java with Examples - GeeksforGeeks
+https://www.geeksforgeeks.org/sortedset-java-examples/
+
+java how work compareto - Pesquisa Google
+https://www.google.com.br/search?q=java+how+work+compareto&oq=java+how+work+compareto&aqs=chrome..69i57j0l5.6975j0j7&sourceid=chrome&ie=UTF-8
+
+(17) java comparaBLE - YouTube
+https://www.youtube.com/results?search_query=java+comparaBLE
+
+(17) DevDojo - YouTube - YouTube
+https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g/playlists
+
+BIGOCHEATCHEET - Pesquisa Google
+https://www.google.com.br/search?q=BIGOCHEATCHEET&oq=BIGOCHEATCHEET&aqs=chrome..69i57.4510j0j7&sourceid=chrome&ie=UTF-8
+
+Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
+http://bigocheatsheet.com/
+
+Configurações - jh.padilha@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#settings/general
+
+Minha conta
+https://myaccount.google.com/u/0/?hl=pt-BR&nlr=1
+
+exportar email gmail - Pesquisa Google
+https://www.google.com.br/search?q=exportar+email+gmail&oq=exportar+email+gmail&aqs=chrome..69i57j0l3.22039j1j7&sourceid=chrome&ie=UTF-8
+
+Como exportar e-mails diretamente do gmail (sem outlook, por exemplo)? - Fóruns de Ajuda do Google
+https://productforums.google.com/forum/#!topic/gmail-pt/cgSkf9r0Rs4
+
+linux app download emails - Pesquisa Google
+https://www.google.com.br/search?q=linux+app+download+emails&oq=linux+app+download+emails&aqs=chrome..69i57.9621j0j8&sourceid=chrome&ie=UTF-8
+
+Os 5 melhores clientes de e-mail para Linux - Linux
+https://canaltech.com.br/linux/os-5-melhores-clientes-de-e-mail-para-linux/
+
+UOL - O melhor conteúdo
+https://www.uol.com.br/
+
+Após 22 anos, chega ao fim casamento da 'mulher-gato' da Raposo Tavares - Blog do Paulo Sampaio - UOL
+https://paulosampaio.blogosfera.uol.com.br/2018/05/03/apos-22-anos-chega-ao-fim-casamento-da-mulher-gato-da-raposo-tavares/
+
+Cientistas chegam mais perto de como tratar câncer de próstata agressivo - 04/05/2018 - UOL VivaBem
+https://vivabem.uol.com.br/noticias/redacao/2018/05/04/cientistas-chegam-mais-perto-de-como-tratar-cancer-de-prostata-letal.htm
+
+8 motivos que vão te deixar com vontade de beber chá todos os dias - Blog da Bella Falconi - UOL
+https://bellafalconi.blogosfera.uol.com.br/2018/05/04/8-motivos-que-vao-te-deixar-com-vontade-de-beber-cha-todos-os-dias/
+
+Pesquisa aposta em anti-inflamatório como novo tratamento para Alzheimer - 04/05/2018 - UOL VivaBem
+https://vivabem.uol.com.br/noticias/redacao/2018/05/04/pesquisa-aposta-em-anti-inflamatorios-como-novo-tratamento-para-alzheimer.htm
+
+Fábrica Interna - GFI Sprint 3 - Refatoração do Registro Contábil - Microsoft Team Foundation Server
+https://tfs.pro.intra.rs.gov.br/tfs/PROCERGSCollection/DTS.ST1.GFI/F%C3%A1brica%20Interna%20-%20GFI/_backlogs/Iteration
+
+$(document).on("pfAjaxComplete", function () {
+[16:43:03] <Pestano> $(document).ready(function () {
+
