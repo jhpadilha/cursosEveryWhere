@@ -1,0 +1,9 @@
+Generate getters and setters
+ctrl  + 3 >> ggas 
+
+Generate constructors
+ctrl + 3 >> gc
+
+Pensar se um metodo deve criar determinados  atributos ou ele já poderia receber estes atributos criados.
+
+HashMap utiliza o número inteiro hashCode dos objetos chaves para espalhá-los internamente, 
