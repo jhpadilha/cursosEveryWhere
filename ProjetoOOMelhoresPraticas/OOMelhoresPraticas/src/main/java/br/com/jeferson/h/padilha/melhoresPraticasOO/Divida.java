@@ -7,7 +7,7 @@ public class Divida {
   private Pagamentos<Pagamento> pagamentos = new Pagamentos<Pagamento>(); 
 
   public void abaterValor(Pagamento pagamento) {
-    if (pagamento == null || pagamento.consultaValorEfetivo() <= 0) {
+    if (pagamento == null || pagamento.qualValorLiquidoPagamento() <= 0) {
       throw new IllegalArgumentException("Valor inválido de pagamento ! ");
     }
     

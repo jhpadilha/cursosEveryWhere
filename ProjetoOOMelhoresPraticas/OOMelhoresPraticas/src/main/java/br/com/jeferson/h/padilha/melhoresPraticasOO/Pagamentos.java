@@ -6,12 +6,9 @@ import java.util.List;
 
 public class Pagamentos<pag extends Pagamento> {
 
-  private double valorPago;
   private List<Pagamento> listaPagamentos = new ArrayList<Pagamento>();
   
   public void registraPagamento(pag pagamento){
-    this.valorPago = this.valorPago + pagamento.consultaValorEfetivo();
-    
     this.listaPagamentos.add(pagamento);
   }
   
@@ -27,7 +24,7 @@ public class Pagamentos<pag extends Pagamento> {
   public ArrayList<Pagamento> pagamentosComValorMaiorQue(double valorMinimo) {
     ArrayList<Pagamento> pagamentosFiltrados = new ArrayList<Pagamento>();
     for (Pagamento pagamento : this.listaPagamentos) {
-      if (pagamento.consultaValorEfetivo() > valorMinimo) {
+      if (pagamento.qualValorLiquidoPagamento() > valorMinimo) {
         pagamentosFiltrados.add(pagamento);
       }
     }
@@ -41,5 +38,14 @@ public class Pagamentos<pag extends Pagamento> {
       }
     }
     return pagamentosFiltrados;
+  }
+
+  public double qualValorPagoAteMomento() {
+    double valorTotalPago = 0;
+    for (Pagamento pagamento : this.listaPagamentos) {
+      valorTotalPago += pagamento.qualValorLiquidoPagamento();
+    }
+    
+    return valorTotalPago;
   }
 }

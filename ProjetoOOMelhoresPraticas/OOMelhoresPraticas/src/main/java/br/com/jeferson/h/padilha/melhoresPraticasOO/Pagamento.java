@@ -16,7 +16,7 @@ public class Pagamento {
     return cnpjPagador.getValue();
   }
   
-  public double consultaValorEfetivo(){
+  public double qualValorLiquidoPagamento(){
     return valorEfetivo;
   }
   

@@ -4,6 +4,10 @@ import java.util.Calendar;
 import java.util.HashMap;
 import java.util.Map;
 
+import br.com.jeferson.h.padilha.melhoresPraticasOO.Cnpj;
+import br.com.jeferson.h.padilha.melhoresPraticasOO.Divida;
+import br.com.jeferson.h.padilha.melhoresPraticasOO.Pagamento;
+
 public class BalancoEmpresa {
   
   private Map<Cnpj, Divida> dividas = new HashMap<Cnpj, Divida>();
@@ -25,7 +29,7 @@ public class BalancoEmpresa {
       Pagamento pagamento = new Pagamento(pagador, cnpjPagador, valor, Calendar.getInstance());
       divida.abaterValor(pagamento);
     }
-  }
+  } 
 
   
   
