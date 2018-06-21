@@ -48,5 +48,15 @@ public class TestaVariaveis {
 		double total = valor1 + valor2;
 		
 		System.out.println("Convenção do 300000004 : " + total);
+		
+		char letraChar = 'a';
+		System.out.println("char é um caracter: " + letraChar);
+		
+		char charComNumero = 65;
+		System.out.println("char é representado com um número: " + charComNumero);
+		
+		charComNumero = 65 + 1;
+		System.out.println("char é representado com um número: " + charComNumero);
+				
 	}
 }
