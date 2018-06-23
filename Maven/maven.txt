@@ -1,0 +1,2 @@
+colocar -o no comando maven faz ele rodar off line
+
