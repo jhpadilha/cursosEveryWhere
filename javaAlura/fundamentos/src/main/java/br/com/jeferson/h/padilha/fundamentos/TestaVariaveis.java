@@ -60,5 +60,14 @@ public class TestaVariaveis {
 		chart = Caracteres Unicode 16 bits = 0 a 65536 = caracteres
 		booleann = Possuem valores True e false = booleano
 		*/
+		
+		char letraChar = 'a';
+		System.out.println("char é um caracter: " + letraChar);
+		
+		char charComNumero = 65;
+		System.out.println("char é representado com um número: " + charComNumero);
+		
+		charComNumero = 65 + 1;
+		System.out.println("char é representado com um número: " + charComNumero);
 	}
 }
