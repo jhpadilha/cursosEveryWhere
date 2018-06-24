@@ -1,16 +1,18 @@
 package br.com.jeferson.h.padilha.fundamentos;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
+import br.com.jeferson.h.padilha.bytebank.Cliente;
 import br.com.jeferson.h.padilha.bytebank.Conta;
 
 public class ContaTest {
 
 	@Test
 	public void primeiraConta() throws Exception {
-		Conta primeiraConta = new Conta(0, 111, 111444777, "Pessoa1");
+		Cliente clientePaulo = new Cliente("Paulo", "00099988887777", "Professor");
+		Conta primeiraConta = new Conta(0, 111, 111444777, clientePaulo);
 		primeiraConta.deposita(200);
 		
 		System.out.println(primeiraConta.consultaSaldo());
@@ -20,7 +22,8 @@ public class ContaTest {
 	
 	@Test
 	public void referenciaTest() throws Exception {
-		Conta primeiraConta = new Conta(0, 111, 111444777, "Pessoa1");
+		Cliente clientePaulo = new Cliente("Paulo", "00099988887777", "Professor");
+		Conta primeiraConta = new Conta(0, 111, 111444777, clientePaulo);
 		primeiraConta.deposita(200);
 		
 		System.out.println("saldo primeira conta : " + primeiraConta.consultaSaldo());
@@ -43,8 +46,11 @@ public class ContaTest {
 	
 	@Test
 	public void transferenciaTest() throws Exception {
-		Conta contaOrigem =  new Conta(222, 111, 111444777, "Pessoa1");
-		Conta contaDestino = new Conta(111, 111, 111444777, "Pessoa1");
+		Cliente clientePaulo = new Cliente("Paulo", "00099988887777", "Professor");
+		Cliente clienteJoao  = new Cliente("Joao",  "88899988887777", "Carteiro");
+		
+		Conta contaOrigem =  new Conta(222, 111, 111444777, clientePaulo);
+		Conta contaDestino = new Conta(111, 111, 111444777, clienteJoao);
 		
 		contaOrigem.transfere(111, contaDestino);
 		

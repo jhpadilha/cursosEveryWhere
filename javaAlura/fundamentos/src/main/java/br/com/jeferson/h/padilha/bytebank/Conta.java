@@ -1,19 +1,40 @@
 package br.com.jeferson.h.padilha.bytebank;
 
 public class Conta {
+	
+	private static int numeroContas = 0;
+	
 	private double saldo;
 	private int agencia;
 	private int numero;
-	private String titular;
+	private Cliente titular;
 	
-	public Conta(double saldo, int agencia, int numero, String titular) {
+	public Conta() {
 		super();
+		inicializaDados();
+	}
+
+	public Conta(double saldo, int agencia, int numero, Cliente titular) {
+		super();
+		inicializaDados();
+		
 		this.saldo = saldo;
 		this.agencia = agencia;
 		this.numero = numero;
 		this.titular  = titular;
 	}
+
+	private void inicializaDados() {
+		Conta.addNumeroContas();
+	}
 	
+	private static void addNumeroContas() {
+		Conta.numeroContas += 1;
+	}
+	
+	private static int getNumeroContas() {
+		return Conta.numeroContas;
+	}
 	
 	public void deposita(double saldoParam) {
 		this.saldo += saldoParam;

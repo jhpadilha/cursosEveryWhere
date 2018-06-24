@@ -63,3 +63,18 @@ Parametro
 Uma classe é uma especificação de um tipo, definindo atributos e comportamentos.
 Um objeto é uma instância de uma classe onde podemos definir valores para seus atributos.
 Para criar uma instância precisamos usar a palavra chave new
+
+
+quando aumenta o numero de atributos em relação a algo é ora de criar um novo objeto, gerando uma composição
+
+Quando se contrói classes que se limitam a ter atributos privados com os setters e getters normalmente dizemos que são classes que só carregam valor, por isso são comumente chamados de classes fantoches ou Value Objects.
+Uma classe fantoche é a que não possui responsabilidade alguma, a não ser carregar um punhado de atributos! 
+
+Modelo Anêmico que é Uma classe onde os dados e comportamentos/lógicas não estão juntos.
+
+Quando pensamos em objetos consistentes, queremos dizer que seus atributos funcionam de acordo com as regras de negócios estipuladas por uma empresa, chefe ou algo do gênero.
+As classes ja devem nascer consistentes, com construtor
+ja cria as informações necessárias para o funcionamento da classe
+
+
+
