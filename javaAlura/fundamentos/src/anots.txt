@@ -46,3 +46,20 @@ Descobrindo se um numero é multiplo de outro
 if(numero % multiploDe == 0) {
   // faça algo
 }
+
+Argumento
+	argumento é o nome dado à cada valor que uma função recebe.
+
+Atributo
+	Correto, os atributos são as características que especificam uma classe.
+
+Alternativa correta
+	variável é onde armazenamos dados. Não precisamos de um objeto ou classe para usar variáveis.
+
+Parametro
+	parâmetros são as informações que passamos para uma função.
+	
+	
+Uma classe é uma especificação de um tipo, definindo atributos e comportamentos.
+Um objeto é uma instância de uma classe onde podemos definir valores para seus atributos.
+Para criar uma instância precisamos usar a palavra chave new
