@@ -51,4 +51,19 @@ public class FuncionarioTest {
     assertTrue("Usuario Gerente nao autenticou !!!", gerente.autentica(11111));
     assertTrue("Usuario Diretor nao autenticou !!!", diretor.autentica(22222));
   }
+	
+	@Test
+  public void somaTotalBonificacaoTest() throws Exception {
+    Funcionario empregado = new Empregado("Nico Empregado","223355646-9", 777.77);
+    Funcionario gerente   = new Gerente("Nico Gerente","223355646-9", 777.77);
+    Funcionario diretor   = new Diretor("Nico Diretor","223355646-9", 777.77);
+    
+    ControleBonificacao controleBonificacao = new ControleBonificacao();
+    
+    controleBonificacao.registraBonificacao(empregado);
+    controleBonificacao.registraBonificacao(gerente);
+    controleBonificacao.registraBonificacao(diretor);
+    
+    assertEquals("Valor da soma total da bonificação esta errado !!! ", 0, Double.compare(1011.101, controleBonificacao.getSoma()));
+  }
 }

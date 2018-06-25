@@ -17,4 +17,18 @@ No caso, a classe Gerente pode ser chamada de classe filha.
 	Gerente herda de Funcionario
 	Gerente é um Funcionario
 
-	
+sobrescrita / override : é utilizar a mesma assinatura do método, há algumas peculiaridades que podem variar mas, em geral, é este o conceito, ou seja, mesma visibilidade, mesmo retorno, mesmo nome e mesmos parâmetros.
+substituindo o metodo da classe pai
+
+sobrecarga : quando temos dois métodos na mesma classe, com mesmo nome, que variam na quantidade ou tipos de parâmetros. 
+
+polimorfismo ??
+quando uma classe pai pode representar as classes filhas
+
+construtores não são herdados
+
+Usamos métodos abstratos quando queremos "forçar" que um filho concreto (classe concreta) implemente um método.
+Classes abstratas são úteis quando queremos utilizar comportamentos e atributos base em classes com comportamentos em comum.
+
+
+

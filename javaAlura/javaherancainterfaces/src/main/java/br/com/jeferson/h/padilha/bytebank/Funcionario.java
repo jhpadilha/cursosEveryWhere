@@ -34,6 +34,7 @@ public abstract class Funcionario {
 		
 		return usuarioAutenticado;
 	}
+	
 	// Getters ...
 	public String getNome() {
 		return nome;

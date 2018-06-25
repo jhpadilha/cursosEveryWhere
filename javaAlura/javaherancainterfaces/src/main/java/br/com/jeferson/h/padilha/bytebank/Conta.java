@@ -1,6 +1,6 @@
 package br.com.jeferson.h.padilha.bytebank;
 
-public class Conta {
+public abstract class Conta {
 	
 	private static int numeroContas = 0;
 	
@@ -15,8 +15,7 @@ public class Conta {
 	}
 
 	public Conta(double saldo, int agencia, int numero, Cliente titular) {
-		super();
-		inicializaDados();
+		this();
 		
 		this.saldo = saldo;
 		this.agencia = agencia;
@@ -24,6 +23,8 @@ public class Conta {
 		this.titular  = titular;
 	}
 
+	public abstract double getDecimalPercentualJurosOperacao();
+	
 	private void inicializaDados() {
 		Conta.addNumeroContas();
 	}
@@ -43,8 +44,10 @@ public class Conta {
 	public boolean saca(double valorSacar) {
 		boolean retorno = false;
 		
-		if (this.saldo >= valorSacar) {
-			this.saldo -= valorSacar;
+		double valorJaDescontadoJurosOperacao = calculaValorJaDescontadoJurosOperacao(valorSacar);
+		
+		if (this.saldo >= valorJaDescontadoJurosOperacao) {
+			this.saldo -= valorJaDescontadoJurosOperacao;
 			retorno = true;
 		}
 		
@@ -56,13 +59,23 @@ public class Conta {
 		
 		boolean sacou = this.saca(valorTtransferir);
 		if (sacou) {
-			contaDestino.deposita(valorTtransferir);
+			contaDestino.deposita(calculaValorJaDescontadoJurosOperacao(valorTtransferir));
 			retorno = true;
 		}
 		
 		return retorno;
 	}
 	
+	private double calculaJurosOperacao(double valorSacar) {
+	  return valorSacar * getDecimalPercentualJurosOperacao();
+	}
+	
+	private double calculaValorJaDescontadoJurosOperacao(double valorSacar) {
+    double jurosOperacao = calculaJurosOperacao(valorSacar);
+    
+    return valorSacar - jurosOperacao;
+  }
+
 	public double consultaSaldo() {
 		return this.saldo;
 	}
