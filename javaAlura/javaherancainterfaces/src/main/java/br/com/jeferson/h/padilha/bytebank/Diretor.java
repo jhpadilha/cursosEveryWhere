@@ -2,15 +2,21 @@ package br.com.jeferson.h.padilha.bytebank;
 
 public class Diretor extends Funcionario{
 
-	private int tipoFuncionario = 0; 
-	private int senha = 00000;
-	private double percentualBonificacao = 0.75;
+	private int tipoFuncionario; 
+	private int senha;
+	private double percentualBonificacao;
 	
     //////////////////////////////////////////////////////////////
 	// construtor
     //////////////////////////////////////////////////////////////
 	
-	// Super ...
+	public Diretor(String nome, String cpf, double salario) {
+    super(nome, cpf, salario);
+    
+    tipoFuncionario = 2; 
+    senha = 22222;
+    percentualBonificacao = 0.75;
+  }
 	
 	//////////////////////////////////////////////////////////////
 	// Comportamentos ...

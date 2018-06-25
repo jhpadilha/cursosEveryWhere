@@ -4,3 +4,17 @@ Repetição de código
 Muitos ifs que nunca param de crescer
 Código pouco expressivo
 
+Gerente    herda de    Funcionario
+              =
+Gerente    extende     Funcionario
+
+
+A classe abstrata que será herdada pode ser entendida como : classe mãe, classe pai, base class, super class.
+Ao chamarmos a classe desta forma, indicamos que ela é a primeira na hierarquia. Ou, simplesmente, que ela está acima de outra com a qual estivermos trabalhando.
+
+No caso, a classe Gerente pode ser chamada de classe filha.
+	Gerente extends Funcionario
+	Gerente herda de Funcionario
+	Gerente é um Funcionario
+
+	

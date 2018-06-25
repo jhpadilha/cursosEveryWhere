@@ -2,15 +2,21 @@ package br.com.jeferson.h.padilha.bytebank;
 
 public class Empregado extends Funcionario{
 
-	private int tipoFuncionario = 0; 
-	private int senha = 00000;
-	private double percentualBonificacao = 0.10;
+	private int tipoFuncionario; 
+	private int senha;
+	private double percentualBonificacao;
 	
-    //////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////
 	// construtor
-    //////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////
 	
-	// Super ...
+	public Empregado(String nome, String cpf, double salario) {
+    super(nome, cpf, salario);
+    
+    tipoFuncionario = 0; 
+    senha = 00000;
+    percentualBonificacao = 0.10;
+  }
 	
 	//////////////////////////////////////////////////////////////
 	// Comportamentos ...
