@@ -1,0 +1,6 @@
+Code Smells (mau cheiro no código).
+livro famoso Clean Code, do autor Robert C Martin, 
+Repetição de código
+Muitos ifs que nunca param de crescer
+Código pouco expressivo
+

@@ -1,12 +1,12 @@
 package br.com.jeferson.h.padilha.bytebank;
 
-public class Funcionario {
+public abstract class Funcionario {
 
 	private String nome;
 	private String cpf;
 	private double salario;
-	private int tipoFuncionario = 0; // 0 - Comun // 1 - Gerente // 2 - Diretor
-	
+	private int tipoFuncionario = 0; 
+
 	// construtor
 	
 	public Funcionario() {
@@ -21,19 +21,19 @@ public class Funcionario {
 	}
 	
 	// Comportamentos ...
-
-	public double getBonificacao() {
-		double retorno = 0;
-		if (tipoFuncionario == 0) {
-			retorno = this.salario * 0.10;			
-		}else if (tipoFuncionario == 1) {
-			retorno = this.salario * 0.45;
-		}else if (tipoFuncionario == 2) {
-			retorno = this.salario * 0.75;
-		}
-		return retorno;
-	}
 	
+	public double getBonificacao() {
+		return this.getSalario() * getPercentualBonificacao();
+	}
+
+	public boolean autentica(int senha) {
+		boolean usuarioAutenticado = false;
+		if (this.getSenha() == senha) {
+			usuarioAutenticado = true;
+		}
+		
+		return usuarioAutenticado;
+	}
 	// Getters ...
 	public String getNome() {
 		return nome;
@@ -54,12 +54,13 @@ public class Funcionario {
 		this.salario = salario;
 	}
 	
-	public int getTipoFuncionario() {
-		return tipoFuncionario;
-	}
+	// 0 - empregado (0.10) // 1 - Gerente(.45) // 2 - Diretor
+	public abstract int getTipoFuncionario();	
+	public abstract void setTipoFuncionario(int tipoFuncionario);
+	public abstract int getSenha();
+	public abstract void setSenha(int senha);
+	public abstract double getPercentualBonificacao();
+	public abstract void setPercentualBonificacao(double percentualBonificacao);
 	
-	public void setTipoFuncionario(int tipoFuncionario) {
-		this.tipoFuncionario = tipoFuncionario;
-	}
 	
 }
