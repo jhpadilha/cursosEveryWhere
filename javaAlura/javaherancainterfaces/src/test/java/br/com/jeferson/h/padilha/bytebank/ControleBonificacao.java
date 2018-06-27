@@ -1,5 +1,7 @@
 package br.com.jeferson.h.padilha.bytebank;
 
+import br.com.jeferson.h.padilha.bytecompany.Funcionario;
+
 public class ControleBonificacao {
   
   private double soma;

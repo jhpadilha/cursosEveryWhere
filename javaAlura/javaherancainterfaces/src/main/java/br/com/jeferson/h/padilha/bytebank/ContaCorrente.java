@@ -1,6 +1,8 @@
 package br.com.jeferson.h.padilha.bytebank;
 
-public class ContaCorrente extends Conta {
+import br.com.jeferson.h.padilha.bytebank.tributos.Tributavel;
+
+public class ContaCorrente extends Conta implements Tributavel{
 
   public ContaCorrente(){
     super();
@@ -13,5 +15,9 @@ public class ContaCorrente extends Conta {
   @Override
   public double getDecimalPercentualJurosOperacao(){
     return 0.25;
+  }
+
+  public double calculaTributos() {
+    return this.consultaSaldo() * 0.01;
   }
 }
