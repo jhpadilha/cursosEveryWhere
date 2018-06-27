@@ -1,10 +1,13 @@
-package br.com.jeferson.h.padilha.bytebank;
+package br.com.jeferson.h.padilha.bytecompany;
 
-public class Gerente extends Funcionario implements UsuarioAutenticavel{
+import br.com.jeferson.h.padilha.bytecompany.autenticacao.Autenticavel;
+import br.com.jeferson.h.padilha.bytecompany.autenticacao.Autenticador;
+
+public class Gerente extends Funcionario implements Autenticavel{
 
 	private int tipoFuncionario; 
-	private int senha;
 	private double percentualBonificacao;
+	private Autenticador autenticador;
 	
   //////////////////////////////////////////////////////////////
 	// construtor
@@ -14,18 +17,19 @@ public class Gerente extends Funcionario implements UsuarioAutenticavel{
     super(nome, cpf, salario);
     
     tipoFuncionario = 1; 
-    senha = 11111;
     percentualBonificacao = 0.45;
+    autenticador = new Autenticador();
   }
 	
 	//////////////////////////////////////////////////////////////
 	// Comportamentos ...
 	//////////////////////////////////////////////////////////////
 	
-	
+	public boolean autenticaSenhaDesbloqueio(int senha) {
+	  return this.autenticador.autenticaSenhaDesbloqueio(senha);
+	}
 	
 	// Getters ...
-
 	
 	public int getTipoFuncionario() {
 		return tipoFuncionario;
@@ -36,12 +40,12 @@ public class Gerente extends Funcionario implements UsuarioAutenticavel{
 	}
 	
 	public int getSenhaDesbloqueio() {
-		return this.senha;
-	}
-	
-	public void setSenhaDesbloqueio(int senha) {
-		this.senha = senha;
-	}
+    return this.autenticador.getSenhaDesbloqueio();
+  }
+  
+  public void setSenhaDesbloqueio(int senhaDesbloqueio) {
+    autenticador.setSenhaDesbloqueio(senhaDesbloqueio);
+  }
 	
 	@Override
 	public double getPercentualBonificacao() {
@@ -53,4 +57,5 @@ public class Gerente extends Funcionario implements UsuarioAutenticavel{
 		this.percentualBonificacao = percentualBonificacao;
 		
 	}
+
 }

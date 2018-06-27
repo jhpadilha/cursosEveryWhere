@@ -6,6 +6,13 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
+import br.com.jeferson.h.padilha.bytecompany.Diretor;
+import br.com.jeferson.h.padilha.bytecompany.Empregado;
+import br.com.jeferson.h.padilha.bytecompany.Funcionario;
+import br.com.jeferson.h.padilha.bytecompany.Gerente;
+import br.com.jeferson.h.padilha.bytecompany.SistemaInterno;
+import br.com.jeferson.h.padilha.bytecompany.autenticacao.Autenticavel;
+
 public class FuncionarioTest {
 
 	@Test        
@@ -44,25 +51,27 @@ public class FuncionarioTest {
 	
 	@Test
   public void autenticacaoFuncionariosTest() throws Exception {
-    Funcionario empregado = new Empregado("Nico Empregado","223355646-9",100.00);
-    UsuarioAutenticavel gerente   = new Gerente("Nico Gerente","223355646-9",100.00);
-    UsuarioAutenticavel diretor   = new Diretor("Nico Diretor","223355646-9",100.00);
+    Autenticavel gerente   = new Gerente("Nico Gerente","223355646-9",100.00);
+    Autenticavel diretor   = new Diretor("Nico Diretor","223355646-9",100.00);
+    
+    gerente.setSenhaDesbloqueio(11111);
+    diretor.setSenhaDesbloqueio(22222);
     
     //assertTrue("Usuario Empregado nao autenticou !!!", empregado.autentica(0));
     assertTrue("Usuario Gerente nao autenticou !!!", gerente.autenticaSenhaDesbloqueio(11111));
     assertTrue("Usuario Diretor nao autenticou !!!", diretor.autenticaSenhaDesbloqueio(22222));
-    assertFalse("Usuario Gerente nao autenticou !!!", gerente.autenticaSenhaDesbloqueio(1111));
-    assertFalse("Usuario Diretor nao autenticou !!!", diretor.autenticaSenhaDesbloqueio(2222));
-    assertFalse("Usuario Gerente nao autenticou !!!", gerente.autenticaSenhaDesbloqueio(111111));
-    assertFalse("Usuario Diretor nao autenticou !!!", diretor.autenticaSenhaDesbloqueio(222222));
+    assertFalse("Usuario Gerente autenticou !!!", gerente.autenticaSenhaDesbloqueio(1111));
+    assertFalse("Usuario Diretor autenticou !!!", diretor.autenticaSenhaDesbloqueio(2222));
+    assertFalse("Usuario Gerente autenticou !!!", gerente.autenticaSenhaDesbloqueio(111111));
+    assertFalse("Usuario Diretor autenticou !!!", diretor.autenticaSenhaDesbloqueio(222222));
   }
 	
 	@Test
 	  public void desbloqueioFuncionariosTest() throws Exception {
 		SistemaInterno sistemaInterno = new SistemaInterno();
 		
-	    UsuarioAutenticavel gerente   = new Gerente("Nico Gerente","223355646-9",100.00);
-	    UsuarioAutenticavel diretor   = new Diretor("Nico Diretor","223355646-9",100.00);
+	    Autenticavel gerente   = new Gerente("Nico Gerente","223355646-9",100.00);
+	    Autenticavel diretor   = new Diretor("Nico Diretor","223355646-9",100.00);
 	    
 	    gerente.setSenhaDesbloqueio(55555);
 	    diretor.setSenhaDesbloqueio(55555);

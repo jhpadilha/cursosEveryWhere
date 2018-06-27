@@ -1,4 +1,4 @@
-package br.com.jeferson.h.padilha.bytebank;
+package br.com.jeferson.h.padilha.bytecompany;
 
 public abstract class Funcionario{
 

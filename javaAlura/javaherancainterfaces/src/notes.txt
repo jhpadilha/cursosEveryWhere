@@ -32,5 +32,16 @@ Classes abstratas são úteis quando queremos utilizar comportamentos e atributo
 
 
 Somente polimorfismo = Interfce
-Polimorfismo e ReutilizacaoCodigo = abstract
+(-) Polimorfismo e (+) ReutilizacaoCodigo = abstract
+
+A herança captura o que é comum e isola aquilo que é diferente entre classes.
+
+interfaces = Garante que todos os métodos de classes que implementam uma interface possam ser chamados com segurança.
+
+Herança possibilita sim polimorfismo E reutilização.
+
+Com interfaces temos uma alternativa ao polimorfismo, 
+com a composição temos uma alternativa a reutilização de código.
+
+CTRL + SHIFT + T >>> JTextField
 
