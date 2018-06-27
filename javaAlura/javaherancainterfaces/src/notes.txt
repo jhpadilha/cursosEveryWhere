@@ -43,5 +43,9 @@ Herança possibilita sim polimorfismo E reutilização.
 Com interfaces temos uma alternativa ao polimorfismo, 
 com a composição temos uma alternativa a reutilização de código.
 
+<<<<<<< HEAD
 CTRL + SHIFT + T >>> JTextField,  java.sql.Connection
+=======
+CTRL + SHIFT + T >>> JTextField
+>>>>>>> branch 'master' of https://jhpadilha:JNew4865@github.com/jhpadilha/cursosEveryWhere.git
 
