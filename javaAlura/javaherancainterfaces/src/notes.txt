@@ -30,5 +30,6 @@ construtores não são herdados
 Usamos métodos abstratos quando queremos "forçar" que um filho concreto (classe concreta) implemente um método.
 Classes abstratas são úteis quando queremos utilizar comportamentos e atributos base em classes com comportamentos em comum.
 
-
+Somente polimorfismo = Interfce
+Polimorfismo e ReutilizacaoCodigo = abstract
 

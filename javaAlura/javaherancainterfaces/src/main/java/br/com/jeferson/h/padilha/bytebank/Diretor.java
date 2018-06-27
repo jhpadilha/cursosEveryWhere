@@ -1,6 +1,6 @@
 package br.com.jeferson.h.padilha.bytebank;
 
-public class Diretor extends Funcionario{
+public class Diretor extends Funcionario implements UsuarioAutenticavel{
 
 	private int tipoFuncionario; 
 	private int senha;
@@ -35,13 +35,11 @@ public class Diretor extends Funcionario{
 		this.tipoFuncionario = tipoFuncionario;
 	}
 	
-	@Override
-	public int getSenha() {
+	public int getSenhaDesbloqueio() {
 		return this.senha;
 	}
 	
-	@Override
-	public void setSenha(int senha) {
+	public void setSenhaDesbloqueio(int senha) {
 		this.senha = senha;
 	}
 	
