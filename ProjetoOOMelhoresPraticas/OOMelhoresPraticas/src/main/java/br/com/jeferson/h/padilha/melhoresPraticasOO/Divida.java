@@ -11,7 +11,7 @@ public class Divida {
       throw new IllegalArgumentException("Valor inválido de pagamento ! ");
     }
     
-    this.pagamentos.registraPagamento(pagamento);
+    this.pagamentos.registraPagamento(pagamento); 
   }
 
   public Cnpj consultaCnpjCredor(){
