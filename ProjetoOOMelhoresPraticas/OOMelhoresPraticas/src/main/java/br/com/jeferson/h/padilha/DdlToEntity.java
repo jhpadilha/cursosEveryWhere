@@ -201,7 +201,8 @@ public class DdlToEntity {
     inputDDL.append("grant select, insert, update, delete on T_DET_GFI.GFI_DA_PROCESSO to JEFERSON_PADILHA; ");
     inputDDL.append(" ");
 
-    Pattern pattern = Pattern.compile("\\(.*\\)");
+    //Pattern pattern = Pattern.compile("\\(.*\\)");
+    Pattern pattern = Pattern.compile("\\((.*?)\\)");
     Matcher matcher = pattern.matcher(inputDDL.toString());
 
     while (matcher.find()) {
