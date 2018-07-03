@@ -13,7 +13,7 @@ public class Pagamento {
     return pagador;
   }
   public String getCnpjPagador() {
-    return cnpjPagador.getValue();
+    return cnpjPagador.getValor();
   }
   
   public double qualValorLiquidoPagamento(){

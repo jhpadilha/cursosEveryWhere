@@ -1,14 +1,14 @@
 package br.com.jeferson.h.padilha.melhoresPraticasOO;
 
-public class Cnpj {
+public class Cnpj implements Documento{
 
   private String cnpj;
 
-  public boolean isCnpjValido() {
+  public boolean ehValido() {
     return primeiroDigitoVerificador() == primeiroDigitoCorreto() && segundoDigitoVerificador() == segundoDigitoCorreto();
   }
 
-  public String getValue() {
+  public String getValor() {
     return this.cnpj;
   }
   
@@ -40,7 +40,7 @@ public class Cnpj {
     super();
     this.cnpj = cnpj;
     
-    this.isCnpjValido();
+    this.ehValido();
   }
 
   @Override
@@ -73,6 +73,9 @@ public class Cnpj {
     return true;
   }
   
-  
+  @Override
+	public String toString() {
+		return cnpj.toString();
+	}
 
 }

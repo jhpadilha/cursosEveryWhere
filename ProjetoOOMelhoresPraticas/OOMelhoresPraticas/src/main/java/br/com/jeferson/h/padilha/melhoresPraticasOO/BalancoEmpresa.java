@@ -13,7 +13,7 @@ public class BalancoEmpresa {
   private Map<Cnpj, Divida> dividas = new HashMap<Cnpj, Divida>();
   
   public void registraDivida(String credor, String cnpjCredor, double valor) {
-    Divida divida = new Divida(valor, 0, credor, cnpjCredor);
+    Divida divida = new Divida(valor, credor, cnpjCredor);
     
     registraDivida(divida);
   }
