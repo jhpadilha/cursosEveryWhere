@@ -5,7 +5,7 @@ import java.util.Calendar;
 import java.util.Iterator;
 import java.util.List;
 
-public class Pagamentos<pag extends Pagamento> implements Iterable<Pagamento> {
+public class Pagamentos<pag extends Pagamento> implements Iterable<Pagamento>{
 
 	private List<Pagamento> listaPagamentos = new ArrayList<Pagamento>();
 
@@ -56,4 +56,17 @@ public class Pagamentos<pag extends Pagamento> implements Iterable<Pagamento> {
 	public Iterator<Pagamento> iterator() {
 		return this.listaPagamentos.iterator();
 	}
+
+  
+  public ArrayList<Pagamento> pagamentosAntesDeComIterator(Calendar data) {
+    ArrayList<Pagamento> pagamentosFiltrados = new ArrayList<Pagamento>();
+
+    // veja que agora usamos apenas this
+    for (Pagamento pagamento : this) {
+      if (pagamento.consultaDataPagamento().before(data)) {
+        pagamentosFiltrados.add(pagamento);
+      }
+    }
+    return pagamentosFiltrados;
+  }
 }

@@ -54,51 +54,38 @@ public class Cadastro {
       }
     }
     if("cadastra".equals(acao)) {
-      if("pessoa_fisica".equals(tipo)) {
-        if(cnpj != null) {
-          return false;
-        }
-        else {
-          this.nome = nome;
-          this.cpf = cpf;
-          this.pessoaFisica = true;
-        }
-      }
-      else if ("pessoa_juridica".equals(tipo)) {
-        if(cpf != null) {
-          return false;
-        }
-        else {
-          this.nome = nome;
-          this.cnpj = cnpj;
-          this.pessoaFisica = false;
-        }
-      }
+      setValoresPessoa(tipo, nome, cpf, cnpj);
     }
     else if("atualiza".equals(acao)) {
-      if("pessoa_fisica".equals(tipo)) {
-        if(cnpj != null) {
-          return false;
-        }
-        else {
-          this.nome = nome;
-          this.cpf = cpf;
-          this.pessoaFisica = true;
-        }
-      }
-      else if ("pessoa_juridica".equals(tipo)) {
-        if(cpf != null) {
-          return false;
-        }
-        else {
-          this.nome = nome;
-          this.cnpj = cnpj;
-          this.pessoaFisica = false;
-        }
-      }
+      setValoresPessoa(tipo, nome, cpf, cnpj);
     }
 
     return false;
+  }
+
+  private boolean setValoresPessoa(String tipo, String nome, String cpf, String cnpj) {
+    if("pessoa_fisica".equals(tipo)) {
+      if(cnpj != null) {
+        return false;
+      }
+      else {
+        this.nome = nome;
+        this.cpf = cpf;
+        this.pessoaFisica = true;
+      }
+    }
+    else if ("pessoa_juridica".equals(tipo)) {
+      if(cpf != null) {
+        return false;
+      }
+      else {
+        this.nome = nome;
+        this.cnpj = cnpj;
+        this.pessoaFisica = false;
+      }
+    }
+    
+    return true;
   }
 
   public String getNome() {
