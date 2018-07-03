@@ -38,7 +38,7 @@ public class RelatorioDivida {
 		
 		Pagamento pagamento1 = new Pagamento("Jef", new Cnpj("00682512036"), 10, Calendar.getInstance());
 		Pagamento pagamento2 = new Pagamento("Jef", new Cnpj("00682512036"), 10, Calendar.getInstance());
-	    Divida divida = new Divida(100, "Jeferson H P", "111222333444");
+	    Divida divida = new Divida(100, "Jeferson H P", new Cpf("111222333444"));
 	    
 	    divida.abaterValor(pagamento1);
 	    divida.abaterValor(pagamento2);

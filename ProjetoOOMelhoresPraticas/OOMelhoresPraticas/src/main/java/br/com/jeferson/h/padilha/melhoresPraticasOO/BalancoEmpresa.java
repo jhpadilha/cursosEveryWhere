@@ -10,10 +10,11 @@ import br.com.jeferson.h.padilha.melhoresPraticasOO.Pagamento;
 
 public class BalancoEmpresa {
   
-  private Map<Cnpj, Divida> dividas = new HashMap<Cnpj, Divida>();
+  private Map<Documento, Divida> dividas = new HashMap<Documento, Divida>();
   
   public void registraDivida(String credor, String cnpjCredor, double valor) {
-    Divida divida = new Divida(valor, credor, cnpjCredor);
+	  
+    Divida divida = new Divida(valor, credor, new Cnpj(cnpjCredor));
     
     registraDivida(divida);
   }
