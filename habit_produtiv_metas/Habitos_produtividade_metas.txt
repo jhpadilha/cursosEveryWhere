@@ -1580,3 +1580,180 @@ https://www.google.com.br/search?newwindow=1&safe=active&ei=WhNJW6vyDc_x5gKk6rHA
 somos limitados nao temos dom - Pesquisa Google
 https://www.google.com.br/search?q=somos+limitados+nao+temos+dom&newwindow=1&safe=active&ei=yxNJW4mLB_Ls5gK5yoPIAw&start=10&sa=N&biw=1920&bih=947
 
+G1 - O portal de notícias da Globo
+https://g1.globo.com/
+
+Expresso Livre - Conectar
+https://expresso.rs.gov.br/login.php?cd=10
+
+Fábrica Interna - GFI Sprint 0 - Microsoft Team Foundation Server
+https://tfs.pro.intra.rs.gov.br/tfs/PROCERGSCollection/DTS.ST1.GFI/F%C3%A1brica%20Interna%20-%20GFI/_backlogs/iteration/Sprint%200
+
+testar software - Pesquisa Google
+https://www.google.com.br/search?q=testar+software&newwindow=1&safe=active&ei=8JZMW8LgHYyd5gLV4arwDw&start=10&sa=N&biw=1920&bih=947
+
+Os 13 principais tipos de Testes de Software!
+https://targettrust.com.br/blog/os-13-principais-tipos-de-testes-de-software/
+
+Teste de Software - Veja os tipos de Teste - Testar.me
+https://www.testar.me/
+
+Teste de Software: Introdução, Conceitos Básicos e Tipos de Teste
+http://blog.onedaytesting.com.br/teste-de-software/
+
+testar software cenarios - Pesquisa Google
+https://www.google.com.br/search?q=testar+software+cenarios&newwindow=1&safe=active&source=lnms&sa=X&ved=0ahUKEwi6ifCQ2aPcAhXjp1kKHYJIDH0Q_AUICSgA&biw=1920&bih=947&dpr=1
+
+teste software valor maior menor diferente - Pesquisa Google
+https://www.google.com.br/search?q=teste+software+valor+maior+menor+diferente&newwindow=1&safe=active&ei=Yp9MW7XcKo7c5gK9k4eYAg&start=20&sa=N&biw=1920&bih=947
+
+04 Lista exercicios teste JUnit TDD - Teste de Softwares
+https://www.passeidireto.com/arquivo/31449226/04-lista-exercicios-teste-junit-tdd
+
+Teste de software – Conheça a técnica do Pairwise
+https://www.primesoft.com.br/blog/teste-de-software-conheca-tecnica-do-pairwise-matrizes-ortogonais/
+
+Introdução ao Teste de Software - Marcio Delamaro, Mario Jino, Jose Maldonado - Google Livros
+https://books.google.com.br/books?id=1rA4DwAAQBAJ&pg=PA97&lpg=PA97&dq=teste+software+valor+maior+menor+diferente&source=bl&ots=qEYu5VUT7e&sig=_iTX-Bctk4ykM7-Wz0qowvQa3wM&hl=pt-BR&sa=X&ved=0ahUKEwi1lZ_Y3qPcAhUOrlkKHb3JASM4ChDoAQhlMAk#v=onepage&q=teste%20software%20valor%20maior%20menor%20diferente&f=false
+
+falhas mais comuns software - Pesquisa Google
+https://www.google.com.br/search?q=falhas+mais+comuns+software&oq=falhas+mais+comuns+software&aqs=chrome..69i57.6454j0j1&sourceid=chrome&ie=UTF-8
+
+bugs comuns software - Pesquisa Google
+https://www.google.com.br/search?q=bugs+comuns+software&oq=bugs+comuns+software&aqs=chrome..69i57.5214j0j1&sourceid=chrome&ie=UTF-8
+
+Testes de software - Entendendo Defeitos, Erros e falhas
+https://www.devmedia.com.br/testes-de-software-entendendo-defeitos-erros-e-falhas/22280
+
+teste software se campo vazio maior valor menor valor - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&biw=1920&bih=947&ei=JaJMW4HSNoXJ5gKe7ZP4DQ&q=teste+software+se+campo+vazio+maior+valor+menor+valor&oq=teste+software+se+campo+vazio+maior+valor+menor+valor&gs_l=psy-ab.12...0.0.0.1903.0.0.0.0.0.0.0.0..0.0....0...1c..64.psy-ab..0.0.0....0.YfaVeTMs9KE
+
+Grupo de Testadores de Software: Casos de Teste Fundamentais
+http://gtsw.blogspot.com/2008/02/casos-de-teste-fundamentais.html
+
+Grupo de Testadores de Software: caso de teste
+http://gtsw.blogspot.com/search/label/caso%20de%20teste
+
+software casos teste - Pesquisa Google
+https://www.google.com.br/search?q=software+casos+teste&newwindow=1&safe=active&ei=uqpMW9r_CPKN5wL_4aKAAw&start=10&sa=N&biw=1920&bih=947
+
+Como fazer um plano de testes baseado em casos de uso
+http://www.linhadecodigo.com.br/artigo/2958/como-fazer-um-plano-de-testes-baseado-em-casos-de-uso.aspx
+
+Testes de Software: Casos de Testes
+http://testandosoftware.blogspot.com/2008/06/casos-de-testes.html
+
+Diretrizes: Caso de Teste
+http://www.funpar.ufpr.br:8080/rup/process/modguide/md_tstcs.htm
+
+Criação e Geração de Planos de Teste de Software
+https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html
+
+Microsoft PowerPoint - Aula02-Curso de Testes de Software - NTI.v01.pptx
+file:///C:/Users/jeferson-padilha/Downloads/Aula02-Curso%20de%20Testes%20de%20Software%20-%20NTI.pdf
+
+8 dicas para uma escrita de Casos de Testes | Vinicius Sabadoti
+https://viniciussabadoti.wordpress.com/2011/02/15/8-dicas-para-uma-escrita-de-casos-de-testes/
+
+Técnicas de Teste - Boas-Vindas | Coursera
+https://www.coursera.org/lecture/intro-teste-de-software/tecnicas-de-teste-SSZtc
+
+Dicas para Escrita de Casos de Teste – CWI Software – Medium
+https://medium.com/cwi-software/dicas-para-escrita-de-casos-de-teste-ccea14a7fdd9
+
+Casos de Teste – Elias Nogueira
+http://eliasnogueira.com/casos-de-teste/
+
+Casos de teste e técnicas utilizadas para teste de software - Portal Educação
+https://www.portaleducacao.com.br/conteudo/artigos/conteudo/casos/58394
+
+software development - Pesquisa Google
+https://www.google.com.br/search?q=software+development&newwindow=1&safe=active&tbs=simg:CAESxQIJ5xRdDbR9VbsauQILEKjU2AQaBggVCAEICQwLELCMpwgaYgpgCAMSKO0I7AjEA5sXmhfpFcwBvAyQC7gOhzSGNLAogDeFNIkn4zaBN4cnhDQaMDlt7jX-fI8D4SI0RxBs9Pek01LaNQH18nXbLan3X10pHgXQOD8Hx6WLVDCbOP5IZyAEDAsQjq7-CBoKCggIARIEnSOAXQwLEJ3twQkaogEKIQoOZGlzcGxheSBkZXZpY2XapYj2AwsKCS9tLzAyOXp6NgodCgpzY3JlZW5zaG902qWI9gMLCgkvbS8wMXpibncKGwoIZGFya25lc3PapYj2AwsKCS9tLzAxa3lyOAodCgtlbGVjdHJvbmljc9qliPYDCgoIL20vMDJtcnAKIgoQY29tcHV0ZXIgcHJvZ3JhbdqliPYDCgoIL20vMDFyOXYM,isz:l&tbm=isch&source=lnt&sa=X&ved=0ahUKEwjqj_rt46PcAhVJzlkKHZmoAPoQpwUIHw&biw=1920&bih=947&dpr=1
+
+INTRANET PROCERGS - Cia. de Processamento de Dados do Estado do Rio Grande do Sul
+http://intranet/
+
+Subprocesso de Teste – Site do Desenvolvimento
+http://desenvolvimento.blog.procergs.reders/2014/06/27/subprocesso-de-teste/
+
+The art of software testing – /Myers, Glenford - Pesquisa Google
+https://www.google.com.br/search?q=The+art+of+software+testing+%E2%80%93+%2FMyers%2C+Glenford&oq=The+art+of+software+testing+%E2%80%93+%2FMyers%2C+Glenford&aqs=chrome..69i57j69i64&sourceid=chrome&ie=UTF-8
+
+Guia de Teste
+https://secweb.intra.rs.gov.br/tsgpc001/ViewDoc/viewdoc.jsp?r_object_id=GTeste.pdf&agrupador=0
+
+syllabus_ctfl_2011br.pdf
+http://bstqb.org.br/uploads/syllabus/syllabus_ctfl_2011br.pdf
+
+syllabus_ctfl_at_2014br.pdf
+http://bstqb.org.br/uploads/syllabus/syllabus_ctfl_at_2014br.pdf
+
+JUnit para Testadores | Udemy
+https://www.udemy.com/junit-para-testadores/
+
+Cursos online - a qualquer hora, em qualquer lugar | Udemy
+https://www.udemy.com/courses/search/?q=driven%20domain%20design&src=ukw&p=4
+
+Testes funcionais com Selenium WebDriver: Do básico ao GRID | Udemy
+https://www.udemy.com/testes-funcionais-com-selenium-webdriver/
+
+Transplante de mitocôndrias restaura órgãos doentes de recém-nascidos - 16/07/2018 - UOL VivaBem
+https://vivabem.uol.com.br/noticias/redacao/2018/07/16/transplante-de-mitocondrias-restaura-orgaos-doentes-de-recem-nascidos.htm
+
+401 Authorization Required
+http://svn.procergs.reders/javacolaborativo/prarqjava4/branches/eap7/src/main/java/com/procergs/arqjava4/rest/SegurancaRestInterceptor.java
+
+SOE
+https://www.soe.rs.gov.br/soe/html/default.html
+
+Alura | Cursos online de tecnologia
+https://www.alura.com.br/
+
+(4271) Caixa de entrada - Expresso Livre
+https://expresso.rs.gov.br/expressoMail/index.php
+
+Consultas ao acervo | Universidade Corporativa PROCERGS
+http://ucprocergs.site.procergs.reders/biblioteca/consultas-ao-acervo/
+
+Mapa_Programas_UC_V45
+https://secweb.intra.rs.gov.br/tsgpc001/ViewDoc/viewdoc.jsp?r_object_id=090227688057b3f9&agrupador=0
+
+topicos especiais em computação teste verificação de software - Pesquisa Google
+https://www.google.com.br/search?q=topicos+especiais+em+computa%C3%A7%C3%A3o+teste+verifica%C3%A7%C3%A3o+de+software&oq=topicos+especiais+em+computa%C3%A7%C3%A3o+teste+verifica%C3%A7%C3%A3o+de+software&aqs=chrome..69i57.792882j0j1&sourceid=chrome&ie=UTF-8
+
+Inscrições - PPGC – UFRGS
+http://www.inf.ufrgs.br/ppgc/mestrado/inscricoes/
+
+PPGC | Portal de Inscrições
+https://www.inf.ufrgs.br/ppgc/sistema/inscricoes/inscricao.php?acao=gerenciarExperiencias&id=27
+
+e-MEC - 1 v.3.871.0-3818
+http://emec.mec.gov.br/
+
+e-MEC - Sistema de Regulação do Ensino Superior
+http://emec.mec.gov.br/emec/consulta-cadastro/detalhamento/d96957f455f6405d14c6542552b0f6eb/MjE4NA==/c1b85ea4d704f246bcced664fdaeddb6/U0lTVEVNQVMgREUgSU5GT1JNQcfDTw==
+
+e-MEC - Sistema de Regulação do Ensino Superior
+http://emec.mec.gov.br/emec/consulta-cadastro/detalhamento/d96957f455f6405d14c6542552b0f6eb/MjE4NA==
+
+68169.pdf
+file:///C:/Users/jeferson-padilha/Downloads/68169.pdf
+
+SOE
+https://www.soe.rs.gov.br/soe/html/default.html
+
+dias jogo brasil copa 2018 - Pesquisa Google
+https://www.google.com.br/search?q=dias+jogo+brasil+copa+2018&oq=dias+jogo+brasil+copa+2018&aqs=chrome..69i57j0l5.7423j0j1&sourceid=chrome&ie=UTF-8
+
+Quais os horários dos jogos do Brasil na Copa do Mundo da Rússia - Prisma - R7 Copa 2018
+https://esportes.r7.com/prisma/copa-2018/quais-os-horarios-dos-jogos-do-brasil-na-copa-do-mundo-da-russia-29062018
+
+INTRANET PROCERGS - Cia. de Processamento de Dados do Estado do Rio Grande do Sul
+http://intranet/
+
+Serviços Internos
+https://secweb.intra.rs.gov.br/fei/mod-dissidio/dissidio-form.xhtml
+
+New Tab
+chrome://newtab/
+
