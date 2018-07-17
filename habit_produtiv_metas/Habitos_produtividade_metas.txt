@@ -571,7 +571,7 @@ Depois de processar, é o momento de criar e organizar um sistema que funcione pa
 execute
 
 ---------------------------------------------------------------------------------
-	
+
 temos manias
 formas de lidar com as coisas
 gostariamos de pensar ou fazer diferente
@@ -1579,4 +1579,263 @@ https://www.google.com.br/search?newwindow=1&safe=active&ei=WhNJW6vyDc_x5gKk6rHA
 
 somos limitados nao temos dom - Pesquisa Google
 https://www.google.com.br/search?q=somos+limitados+nao+temos+dom&newwindow=1&safe=active&ei=yxNJW4mLB_Ls5gK5yoPIAw&start=10&sa=N&biw=1920&bih=947
+
+
+maven reports - Pesquisa Google
+https://www.google.com.br/search?q=maven+reports&rlz=1C1NDCM_pt-BRBR796BR796&oq=maven+reports&aqs=chrome..69i57j0l5.4648j1j7&sourceid=chrome&ie=UTF-8
+
+Maven – Available Plugins
+https://maven.apache.org/plugins/
+
+JDepend - Pesquisa Google
+https://www.google.com.br/search?q=JDepend&rlz=1C1NDCM_pt-BRBR796BR796&oq=JDepend&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+
+Google Code Archive - Long-term storage for Google Code Project Hosting.
+https://code.google.com/archive/search?q=maven%20plugin%20label:maven&projectsearch=Search%20Projects
+
+localhost:8080/test/
+http://localhost:8080/test/
+
+web.xml examples listener - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&ei=rSZKW927GcvVzwLP-pSIBQ&q=web.xml+examples+listener&oq=web.xml+examples+listener&gs_l=psy-ab.3..0i22i30k1l6.2223732.2228244.0.2228484.18.17.0.0.0.0.643.2481.2-6j0j1j1.8.0....0...1c.1.64.psy-ab..13.5.1496...35i39k1j0i22i10i30k1.0.viUFCPWV-LU
+
+Servlet Filters and Event Listeners
+https://docs.oracle.com/cd/B14099_19/web.1012/b14017/filters.htm
+
+java - How to specify the default error page in web.xml? - Stack Overflow
+https://stackoverflow.com/questions/7066192/how-to-specify-the-default-error-page-in-web-xml
+
+xhtml encoding example - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&ei=OCNKW9-jAsba5gLCjoLIBw&q=xhtml+encoding++example&oq=xhtml+encoding++example&gs_l=psy-ab.3...25189.32098.0.32294.12.12.0.0.0.0.383.1689.2-4j2.6.0....0...1c.1.64.psy-ab..6.2.517...0i7i30i19k1j0i7i10i30i19k1j0i19k1j0i13i30i19k1j0i13i5i30i19k1j0i8i13i30i19k1.0.URJDLs_6Ky4
+
+jsp %= - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&ei=xjRKW9_UI-zc5gKtopTwAw&q=jsp+%25%3D&oq=jsp+%25%3D&gs_l=psy-ab.3..0j0i203k1l3j0i22i30k1l6.13694.15223.0.16195.2.2.0.0.0.0.217.433.2-2.2.0....0...1c.1.64.psy-ab..0.2.432...35i39k1j0i67k1.0.Ap6fIg77Rkk
+
+Simple JSP Example
+http://www.easywayserver.com/jsp/JSP-example.htm
+
+JSP WITH JSF - Pesquisa Google
+https://www.google.com.br/search?q=JSP+WITH+JSF&rlz=1C1NDCM_pt-BRBR796BR796&oq=JSP+WITH+JSF&aqs=chrome..69i57j0l5.4990j1j7&sourceid=chrome&ie=UTF-8
+
+JSF REQUEST PARAM - Pesquisa Google
+https://www.google.com.br/search?q=JSF+REQUEST+PARAM&rlz=1C1NDCM_pt-BRBR796BR796&oq=JSF+REQUEST+PARAM&aqs=chrome..69i57j0l5.5419j1j7&sourceid=chrome&ie=UTF-8
+
+Get Request and Session Parameters and Attributes from JSF pages - Stack Overflow
+https://stackoverflow.com/questions/550448/get-request-and-session-parameters-and-attributes-from-jsf-pages
+
+Get Request and Session Parameters and Attributes from JSF pages - Stack Overflow
+https://stackoverflow.com/questions/550448/get-request-and-session-parameters-and-attributes-from-jsf-pages
+
+JSF 2 GETs Bookmarkable URLs - DZone Java
+https://dzone.com/articles/bookmarkability-jsf-2
+
+Getting Started With Vaadin 10 - DZone - Refcardz
+https://dzone.com/refcardz/getting-started-vaadin?chapter=1
+
+is not a javax.servlet.Filter - Pesquisa Google
+https://www.google.com.br/search?q=is+not+a+javax.servlet.Filter&rlz=1C1NDCM_pt-BRBR796BR796&oq=is+not+a+javax.servlet.Filter&aqs=chrome..69i57j0j69i64.1120j0j7&sourceid=chrome&ie=UTF-8
+
+java - Servlet filters not working properly - Stack Overflow
+https://stackoverflow.com/questions/18239486/servlet-filters-not-working-properly
+
+web.xml filter all pages - Pesquisa Google
+https://www.google.com.br/search?q=web.xml+filter+all+pages&rlz=1C1NDCM_pt-BRBR796BR796&oq=web.xml+filter+all+pages&aqs=chrome..69i57.7732j1j7&sourceid=chrome&ie=UTF-8
+
+What is a filter and how do I use it? - Web Tutorials - avajava.com
+http://www.avajava.com/tutorials/lessons/what-is-a-filter-and-how-do-i-use-it.html
+
+regex - Using Servlet filter on all the pages except the index - Stack Overflow
+https://stackoverflow.com/questions/10708706/using-servlet-filter-on-all-the-pages-except-the-index
+
+Foto 3x4 - jh.padilha@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgxvwzvSTGTVWjKqXjMcmqkncfWQd
+
+www.uol.com.br
+https://www.uol.com.br/
+
+A rotina de estresse, xingamento e pressão dos atendentes de telemarketing - 14/07/2018 - UOL VivaBem
+https://vivabem.uol.com.br/noticias/bbc/2018/07/14/a-rotina-de-estresse-xingamento-e-pressao-dos-atendentes-de-telemarketing.htm
+
+maven DarchetypeArtifactId hibernate jsf - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&ei=zadKW_yaFc_y5gKvt5j4Cw&q=maven+DarchetypeArtifactId+hibernate+jsf&oq=maven+DarchetypeArtifactId+hibernate+jsf&gs_l=psy-ab.3...2035.8561.0.10718.14.13.0.0.0.0.482.2425.2-2j3j2.7.0....0...1c.1.64.psy-ab..7.6.2002...0i19k1j0i22i30i19k1j33i160k1j33i21k1.0.2NUwqXDGXL8
+
+Create JSF 2.1, Primefaces 4.0, EJB, Restful Project, Using Maven, with JBoss AS 7, Postgres DB and Eclipse. | Hatem Alimam
+http://blog.hatemalimam.com/create-jsf-2-1-using-maven-jboss-as-7-postgres-eclipse/
+
+eclipse project facets - Pesquisa Google
+https://www.google.com.br/search?q=eclipse+project+facets&rlz=1C1NDCM_pt-BRBR796BR796&oq=eclipse+project+facets&aqs=chrome..69i57j0l5.5733j1j7&sourceid=chrome&ie=UTF-8
+
+Help - Eclipse Platform
+https://help.eclipse.org/neon/index.jsp?topic=%2Forg.eclipse.jst.j2ee.doc.user%2Ftopics%2Fcfacets.html
+
+(81) Facebook
+https://www.facebook.com/
+
+Domain-Driven Design Fundamentals | Pluralsight
+https://www.pluralsight.com/courses/domain-driven-design-fundamentals?aid=7010a000002BUbSAAW&utm_source=Criteo&utm_medium=Retargeting&utm_campaign=Criteo_Test
+
+(81) Columbia Sportswear - Página inicial
+https://www.facebook.com/ColumbiaBrasil/?hc_ref=ARTx9PCabj6uqggvxa1cdC58lYpIgIz-OHgASoEWbpr5NORSs_BbIokMklP27ga45x0&fref=nf&__tn__=kC-RH-R&ft[tn]=kC-R-RH-R-R&ft[qid]=6578277476824398330&ft[mf_story_key]=7643303521622615539&ft[ei]=AI%40ed6ad373197cd5738549ed932699c4b6&ft[top_level_post_id]=2102456023369314&ft[src]=10&ft[fbfeed_location]=1&ft[insertion_position]=10&ft[ordinal_position]=13%3A2
+
+Conectar um dispositivo Bluetooth - Windows Help
+https://support.microsoft.com/pt-br/help/15290/windows-connect-bluetooth-device
+
+servlet filter request pass param jsf - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&ei=6WVLW7GhKoPf5gKP0KG4Dg&q=servlet+filter+request+pass+param+jsf&oq=servlet+filter+request+pass+param+jsf&gs_l=psy-ab.3...18983492.19158139.0.19159708.13.13.0.0.0.0.292.1802.0j1j7.8.0....0...1c.1.64.psy-ab..5.0.0....0.LnB_r4NnALw
+
+Use Filter to check Request Parameter : Filter « Servlet « Java Tutorial
+http://www.java2s.com/Tutorial/Java/0400__Servlet/UseFiltertocheckRequestParameter.htm
+
+4 ways to pass parameter from JSF page to backing bean – Mkyong.com
+https://www.mkyong.com/jsf2/4-ways-to-pass-parameter-from-jsf-page-to-backing-bean/
+
+Iniciante, tentando Login com Jsf e Servelet Filter. - Fórum DevMedia
+https://www.devmedia.com.br/forum/iniciante-tentando-login-com-jsf-e-servelet-filter/413295
+
+Filter + Jsf + RichFaces + javax.servlet.Filter - Programação / Java - GUJ
+http://www.guj.com.br/t/filter-jsf-richfaces-javax-servlet-filter/136611
+
+ajax - Servlet filter with JSF - Stack Overflow
+https://stackoverflow.com/questions/26779489/servlet-filter-with-jsf
+
+UOL - O melhor conteúdo
+https://www.uol.com.br/
+
+Você sabe o que é uma dominatrix? Vem entender - Mayumi Sato - UOL
+https://mayumisato.blogosfera.uol.com.br/2018/07/15/voce-sabe-o-que-e-uma-dominatrix-vem-entender/
+
+(17) Best Celebrities Surprising Fans ??? 2018 - YouTube
+https://www.youtube.com/watch?v=F4DM9rsnxag
+
+Paola Machado - UOL
+https://paolamachado.blogosfera.uol.com.br/2018/07/15/somos-fisiologicamente-preguicosos-mas-uma-boa-musica-pode-nos-animar/
+
+pessoas atraves determinação esforço dedicação trabalho sucesso - Pesquisa Google
+https://www.google.com.br/search?q=pessoas+atraves+determina%C3%A7%C3%A3o+esfor%C3%A7o+dedica%C3%A7%C3%A3o+trabalho+sucesso&newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&ei=xJFLW93ZHcGc5gKl-Z6YAg&start=40&sa=N&biw=1920&bih=1012
+
+“O trabalho duro supera o talento quando o talento não trabalha duro” - Grupo DPG
+https://grupodpg.com.br/o-trabalho-duro-supera-o-talento-quando-o-talento-nao-trabalha-duro/
+
+10 exercícios para melhorar a sua força de vontade e auto-disciplina
+https://www.miguellucas.com.br/10-exercicios-para-melhorar-a-sua-forca-de-vontade-e-auto-disciplina/
+
+Sportplan Triatlhon
+http://www.sportplan.com.br/artigo/10-qualidades-dos-campeoes
+
+frases sobre Determinação + Pensamentos+ mensagens +ditado+ Rivalcir
+http://www.rivalcir.com.br/frases/determinacao.html
+
+11 dicas para conseguir trabalho sem experiência ‹ GO Blog | EF Blog Brasil
+https://www.ef.com.br/blog/language/conseguir-trabalho-sem-experiencia/
+
+Arquivos | SuporteCont
+http://suportecont.com.br/2017/02/
+
+dom dedicação esforço trabalho - Pesquisa Google
+https://www.google.com.br/search?q=dom+dedica%C3%A7%C3%A3o+esfor%C3%A7o+trabalho&newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&ei=LpJLW-uGJa3r5gKPvKgo&start=20&sa=N&biw=1920&bih=1012
+
+Suor ou talento? É certo que só esforço não basta | EXAME
+https://exame.abril.com.br/revista-exame/suor-ou-talento/
+
+G1 – Espiral – Alysson Muotri » O dom da dedicação » Arquivo
+http://g1.globo.com/platb/espiral/2012/08/15/o-dom-da-dedicacao/
+
+Versículos de Dedicação - Bíblia
+https://www.bibliaon.com/dedicacao/
+
+4 versículos para quando você precisa tomar decisões importantes - Bíblia
+https://www.bibliaon.com/versiculos_para_tomar_decisoes/
+
+Ser excepcional não é dom, mas muita disciplina e trabalho duro
+https://qualconcurso.jusbrasil.com.br/artigos/407768031/ser-excepcional-nao-e-dom-mas-muita-disciplina-e-trabalho-duro
+
+Talento Vs. Esforço – Editora Intrínseca
+https://www.intrinseca.com.br/blog/2017/01/talento-vs-esforco/
+
+teoria dedicação esforço - Pesquisa Google
+https://www.google.com.br/search?q=teoria+dedica%C3%A7%C3%A3o+esfor%C3%A7o&newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&ei=QZpLW8nGOuub5wLu0r7gBw&start=10&sa=N&biw=1920&bih=1012
+
+Entenda sobre teorias da motivação - Notícias - Carreira - Administradores.com
+http://www.administradores.com.br/noticias/carreira/entenda-sobre-teorias-da-motivacao/88003/
+
+Conheça mais Sobre as Teorias Motivacionais - Portal
+http://www.ibccoaching.com.br/portal/lideranca-e-motivacao/teorias-da-motivacao/
+
+Esforço, dedicação e foco: acadêmico do curso de Direito do UniToledo é nota 10 na 2ª fase da OAB | UNITOLEDO
+http://web.toledo.br/blog/2017/10/31/esforco-dedicacao-e-foco-academico-do-curso-de-direito-do-unitoledo-e-nota-10-na-2a-fase-da-oab/
+
+O esforço que leva à perfeição | EXAME
+https://exame.abril.com.br/pme/esforco-leva-perfeicao-451539/
+
+vencer por esforço X vencer por talento
+https://www.hardware.com.br/comunidade/vencer-esforco/1154185/
+
+integrais - Pesquisa Google
+https://www.google.com.br/search?q=integrais&newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&tbm=vid&source=lnms&sa=X&ved=0ahUKEwiRtanh7qHcAhXCuFkKHQViALYQ_AUICigB&biw=1920&bih=1012&dpr=1
+
+(17) Activate Brain to 100% Potential ? Gamma Binaural Beats ? Genius Brain Frequency #GV165 - YouTube
+https://www.youtube.com/watch?v=9pJheICAck4
+
+problema da vela karl duncker - Pesquisa Google
+https://www.google.com.br/search?q=problema+da+vela+karl+duncker&rlz=1C1NDCM_pt-BRBR796BR796&oq=karl+dunker+vela&aqs=chrome.2.69i57j0l2.23773j0j4&sourceid=chrome&ie=UTF-8
+
+mouse happiness victory - Pesquisa Google
+https://www.google.com.br/search?q=mouse+happiness+victory&newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj068bq-KHcAhVGwFkKHZY0CYwQ_AUICigB&biw=1920&bih=1012
+
+(17) compra e venda 05/10 - YouTube
+https://www.youtube.com/watch?v=00zWhv-3TZc
+
+educação financeira - Pesquisa Google
+https://www.google.com.br/search?q=educa%C3%A7%C3%A3o+financeira&newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiHg53jgqLcAhUirVkKHQczCRkQ_AUICygC&biw=1200&bih=847
+
+tipos aplicação desenvolver treinar programação - Pesquisa Google
+https://www.google.com.br/search?q=tipos+aplica%C3%A7%C3%A3o+desenvolver+treinar+programa%C3%A7%C3%A3o&rlz=1C1NDCM_pt-BRBR796BR796&oq=tipos+aplica%C3%A7%C3%A3o+desenvolver+treinar+programa%C3%A7%C3%A3o&aqs=chrome..69i57.11420j0j7&sourceid=chrome&ie=UTF-8
+
+treinar programação time locadora aluguel cursos escola - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&biw=1920&bih=1012&ei=47lLW5q4CYee5gKkkKaICQ&q=treinar+programa%C3%A7%C3%A3o+time+locadora+aluguel+cursos+escola&oq=treinar+programa%C3%A7%C3%A3o+time+locadora+aluguel+cursos+escola&gs_l=psy-ab.12...18210.18210.0.20336.1.1.0.0.0.0.237.237.2-1.1.0....0...1c.1.64.psy-ab..0.0.0....0.O3wqgAifFso
+
+exemplos modelos er - Pesquisa Google
+https://www.google.com.br/search?q=exemplos+modelos+er&newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiNhMzIg6LcAhUirVkKHQczCRkQ_AUICigB&biw=1200&bih=847#imgdii=qE_Y29o112F8wM:&imgrc=LcVGS12Wt5aAjM:
+
+Unclaimed Territory - by Glenn Greenwald
+http://glenngreenwald.blogspot.com/
+
+Home — ProPublica
+https://www.propublica.org/
+
+Democracy Now! | Democracy Now!
+https://www.democracynow.org/
+
+The Intercept Brasil
+https://theintercept.com/brasil/
+
+O que é que a Coreia tem? - Forças Terrestres - ForTe
+http://www.forte.jor.br/2018/05/19/o-que-e-que-a-coreia-tem/
+
+Quer estudar nos EUA? - Forças Terrestres - ForTe
+http://www.forte.jor.br/2018/05/14/quer-estudar-nos-eua/
+
+extensao rio grande do sul norte a sul - Pesquisa Google
+https://www.google.com.br/search?q=extensao+rio+grande+do+sul+norte+a+sul&newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&source=lnms&sa=X&ved=0ahUKEwiq47zElaLcAhVHj1kKHQ3tC0gQ_AUICSgA&biw=1920&bih=1012&dpr=1
+
+Rio Grande do Sul – Wikipédia, a enciclopédia livre
+https://pt.wikipedia.org/wiki/Rio_Grande_do_Sul
+
+maven plugin best - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&biw=1920&bih=1012&ei=G9NLW-eoOsen5gLN2o_wCw&q=maven+plugin+best&oq=maven+plugin+best&gs_l=psy-ab.3..0i22i30k1j0i22i10i30k1j0i22i30k1l5.246602.248018.0.248536.4.4.0.0.0.0.273.957.2-4.4.0....0...1c.1.64.psy-ab..0.4.956...0i203k1.0.oSBhrx7ViAI
+
+Top 10 Maven Plugins Every Java Developer Should Know
+https://javarevisited.blogspot.com/2016/08/top-10-maven-plugins-every-java-developer-know.html
+
+25 Best Free Maven Plug-ins to Make Java Developer More Productive | FromDev
+https://www.fromdev.com/2012/07/25-best-free-maven-plug-ins-to-make.html
+
+java - Best "General Purpose" Maven plugins - Stack Overflow
+https://stackoverflow.com/questions/2616397/best-general-purpose-maven-plugins
+
+Maven Plugin for SoapUI | SoapUI
+https://www.soapui.org/test-automation/maven/maven-2-x.html
+
+SpotBugs
+https://spotbugs.github.io/
 
