@@ -137,5 +137,38 @@ https://maven.apache.org/plugins/maven-pmd-plugin/
 -- a funcionalidade de "check" do plugin pmd será será executado na fase 
 -- de check do maven
 
+-- tutorial do jacoco
+http://eclemma.org/jacoco/trunk/doc/maven.html
+
+-- se eu nao informar a fase em que a funcionalidade do plugin devera ser exeutada
+-- ele irá executar a funcionalidade na fase default do plugin
+
+-- atualiza as dependencias do pom para suas ultimas versoes
+mvn versions:use-latest-versions
+
+-- Existe um outro goals que verifica por atualizações sem de fato alterar o pom.xml:
+mvn versions:display-dependency-updates
+
+--plugin Versions do maven
+http://www.mojohaus.org/versions-maven-plugin/
+
+-- jar 
+-- maver-archetype-quickstart
+
+-- war 
+-- maver-archetype-webapp
+
+-- classes interface nao precisa reestarta a aplicação depois de atualizada
+-- ja para class java precisa reestarta
+
+-- gera pacote
+mvn package
 
 
+-- escopo teste
+-- esta disponivel para compilar e rodar os testes
+
+-- defult para compilar e para quem precisar, tambem em tempo de execucao
+
+-- instalar projeto no controlador de dependencias local m2
+mvn install
