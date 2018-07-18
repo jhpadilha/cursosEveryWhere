@@ -1580,6 +1580,180 @@ https://www.google.com.br/search?newwindow=1&safe=active&ei=WhNJW6vyDc_x5gKk6rHA
 somos limitados nao temos dom - Pesquisa Google
 https://www.google.com.br/search?q=somos+limitados+nao+temos+dom&newwindow=1&safe=active&ei=yxNJW4mLB_Ls5gK5yoPIAw&start=10&sa=N&biw=1920&bih=947
 
+G1 - O portal de notícias da Globo
+https://g1.globo.com/
+
+Expresso Livre - Conectar
+https://expresso.rs.gov.br/login.php?cd=10
+
+Fábrica Interna - GFI Sprint 0 - Microsoft Team Foundation Server
+https://tfs.pro.intra.rs.gov.br/tfs/PROCERGSCollection/DTS.ST1.GFI/F%C3%A1brica%20Interna%20-%20GFI/_backlogs/iteration/Sprint%200
+
+testar software - Pesquisa Google
+https://www.google.com.br/search?q=testar+software&newwindow=1&safe=active&ei=8JZMW8LgHYyd5gLV4arwDw&start=10&sa=N&biw=1920&bih=947
+
+Os 13 principais tipos de Testes de Software!
+https://targettrust.com.br/blog/os-13-principais-tipos-de-testes-de-software/
+
+Teste de Software - Veja os tipos de Teste - Testar.me
+https://www.testar.me/
+
+Teste de Software: Introdução, Conceitos Básicos e Tipos de Teste
+http://blog.onedaytesting.com.br/teste-de-software/
+
+testar software cenarios - Pesquisa Google
+https://www.google.com.br/search?q=testar+software+cenarios&newwindow=1&safe=active&source=lnms&sa=X&ved=0ahUKEwi6ifCQ2aPcAhXjp1kKHYJIDH0Q_AUICSgA&biw=1920&bih=947&dpr=1
+
+teste software valor maior menor diferente - Pesquisa Google
+https://www.google.com.br/search?q=teste+software+valor+maior+menor+diferente&newwindow=1&safe=active&ei=Yp9MW7XcKo7c5gK9k4eYAg&start=20&sa=N&biw=1920&bih=947
+
+04 Lista exercicios teste JUnit TDD - Teste de Softwares
+https://www.passeidireto.com/arquivo/31449226/04-lista-exercicios-teste-junit-tdd
+
+Teste de software – Conheça a técnica do Pairwise
+https://www.primesoft.com.br/blog/teste-de-software-conheca-tecnica-do-pairwise-matrizes-ortogonais/
+
+Introdução ao Teste de Software - Marcio Delamaro, Mario Jino, Jose Maldonado - Google Livros
+https://books.google.com.br/books?id=1rA4DwAAQBAJ&pg=PA97&lpg=PA97&dq=teste+software+valor+maior+menor+diferente&source=bl&ots=qEYu5VUT7e&sig=_iTX-Bctk4ykM7-Wz0qowvQa3wM&hl=pt-BR&sa=X&ved=0ahUKEwi1lZ_Y3qPcAhUOrlkKHb3JASM4ChDoAQhlMAk#v=onepage&q=teste%20software%20valor%20maior%20menor%20diferente&f=false
+
+falhas mais comuns software - Pesquisa Google
+https://www.google.com.br/search?q=falhas+mais+comuns+software&oq=falhas+mais+comuns+software&aqs=chrome..69i57.6454j0j1&sourceid=chrome&ie=UTF-8
+
+bugs comuns software - Pesquisa Google
+https://www.google.com.br/search?q=bugs+comuns+software&oq=bugs+comuns+software&aqs=chrome..69i57.5214j0j1&sourceid=chrome&ie=UTF-8
+
+Testes de software - Entendendo Defeitos, Erros e falhas
+https://www.devmedia.com.br/testes-de-software-entendendo-defeitos-erros-e-falhas/22280
+
+teste software se campo vazio maior valor menor valor - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&biw=1920&bih=947&ei=JaJMW4HSNoXJ5gKe7ZP4DQ&q=teste+software+se+campo+vazio+maior+valor+menor+valor&oq=teste+software+se+campo+vazio+maior+valor+menor+valor&gs_l=psy-ab.12...0.0.0.1903.0.0.0.0.0.0.0.0..0.0....0...1c..64.psy-ab..0.0.0....0.YfaVeTMs9KE
+
+Grupo de Testadores de Software: Casos de Teste Fundamentais
+http://gtsw.blogspot.com/2008/02/casos-de-teste-fundamentais.html
+
+Grupo de Testadores de Software: caso de teste
+http://gtsw.blogspot.com/search/label/caso%20de%20teste
+
+software casos teste - Pesquisa Google
+https://www.google.com.br/search?q=software+casos+teste&newwindow=1&safe=active&ei=uqpMW9r_CPKN5wL_4aKAAw&start=10&sa=N&biw=1920&bih=947
+
+Como fazer um plano de testes baseado em casos de uso
+http://www.linhadecodigo.com.br/artigo/2958/como-fazer-um-plano-de-testes-baseado-em-casos-de-uso.aspx
+
+Testes de Software: Casos de Testes
+http://testandosoftware.blogspot.com/2008/06/casos-de-testes.html
+
+Diretrizes: Caso de Teste
+http://www.funpar.ufpr.br:8080/rup/process/modguide/md_tstcs.htm
+
+Criação e Geração de Planos de Teste de Software
+https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html
+
+Microsoft PowerPoint - Aula02-Curso de Testes de Software - NTI.v01.pptx
+file:///C:/Users/jeferson-padilha/Downloads/Aula02-Curso%20de%20Testes%20de%20Software%20-%20NTI.pdf
+
+8 dicas para uma escrita de Casos de Testes | Vinicius Sabadoti
+https://viniciussabadoti.wordpress.com/2011/02/15/8-dicas-para-uma-escrita-de-casos-de-testes/
+
+Técnicas de Teste - Boas-Vindas | Coursera
+https://www.coursera.org/lecture/intro-teste-de-software/tecnicas-de-teste-SSZtc
+
+Dicas para Escrita de Casos de Teste – CWI Software – Medium
+https://medium.com/cwi-software/dicas-para-escrita-de-casos-de-teste-ccea14a7fdd9
+
+Casos de Teste – Elias Nogueira
+http://eliasnogueira.com/casos-de-teste/
+
+Casos de teste e técnicas utilizadas para teste de software - Portal Educação
+https://www.portaleducacao.com.br/conteudo/artigos/conteudo/casos/58394
+
+software development - Pesquisa Google
+https://www.google.com.br/search?q=software+development&newwindow=1&safe=active&tbs=simg:CAESxQIJ5xRdDbR9VbsauQILEKjU2AQaBggVCAEICQwLELCMpwgaYgpgCAMSKO0I7AjEA5sXmhfpFcwBvAyQC7gOhzSGNLAogDeFNIkn4zaBN4cnhDQaMDlt7jX-fI8D4SI0RxBs9Pek01LaNQH18nXbLan3X10pHgXQOD8Hx6WLVDCbOP5IZyAEDAsQjq7-CBoKCggIARIEnSOAXQwLEJ3twQkaogEKIQoOZGlzcGxheSBkZXZpY2XapYj2AwsKCS9tLzAyOXp6NgodCgpzY3JlZW5zaG902qWI9gMLCgkvbS8wMXpibncKGwoIZGFya25lc3PapYj2AwsKCS9tLzAxa3lyOAodCgtlbGVjdHJvbmljc9qliPYDCgoIL20vMDJtcnAKIgoQY29tcHV0ZXIgcHJvZ3JhbdqliPYDCgoIL20vMDFyOXYM,isz:l&tbm=isch&source=lnt&sa=X&ved=0ahUKEwjqj_rt46PcAhVJzlkKHZmoAPoQpwUIHw&biw=1920&bih=947&dpr=1
+
+INTRANET PROCERGS - Cia. de Processamento de Dados do Estado do Rio Grande do Sul
+http://intranet/
+
+Subprocesso de Teste – Site do Desenvolvimento
+http://desenvolvimento.blog.procergs.reders/2014/06/27/subprocesso-de-teste/
+
+The art of software testing – /Myers, Glenford - Pesquisa Google
+https://www.google.com.br/search?q=The+art+of+software+testing+%E2%80%93+%2FMyers%2C+Glenford&oq=The+art+of+software+testing+%E2%80%93+%2FMyers%2C+Glenford&aqs=chrome..69i57j69i64&sourceid=chrome&ie=UTF-8
+
+Guia de Teste
+https://secweb.intra.rs.gov.br/tsgpc001/ViewDoc/viewdoc.jsp?r_object_id=GTeste.pdf&agrupador=0
+
+syllabus_ctfl_2011br.pdf
+http://bstqb.org.br/uploads/syllabus/syllabus_ctfl_2011br.pdf
+
+syllabus_ctfl_at_2014br.pdf
+http://bstqb.org.br/uploads/syllabus/syllabus_ctfl_at_2014br.pdf
+
+JUnit para Testadores | Udemy
+https://www.udemy.com/junit-para-testadores/
+
+Cursos online - a qualquer hora, em qualquer lugar | Udemy
+https://www.udemy.com/courses/search/?q=driven%20domain%20design&src=ukw&p=4
+
+Testes funcionais com Selenium WebDriver: Do básico ao GRID | Udemy
+https://www.udemy.com/testes-funcionais-com-selenium-webdriver/
+
+Transplante de mitocôndrias restaura órgãos doentes de recém-nascidos - 16/07/2018 - UOL VivaBem
+https://vivabem.uol.com.br/noticias/redacao/2018/07/16/transplante-de-mitocondrias-restaura-orgaos-doentes-de-recem-nascidos.htm
+
+401 Authorization Required
+http://svn.procergs.reders/javacolaborativo/prarqjava4/branches/eap7/src/main/java/com/procergs/arqjava4/rest/SegurancaRestInterceptor.java
+
+SOE
+https://www.soe.rs.gov.br/soe/html/default.html
+
+Alura | Cursos online de tecnologia
+https://www.alura.com.br/
+
+(4271) Caixa de entrada - Expresso Livre
+https://expresso.rs.gov.br/expressoMail/index.php
+
+Consultas ao acervo | Universidade Corporativa PROCERGS
+http://ucprocergs.site.procergs.reders/biblioteca/consultas-ao-acervo/
+
+Mapa_Programas_UC_V45
+https://secweb.intra.rs.gov.br/tsgpc001/ViewDoc/viewdoc.jsp?r_object_id=090227688057b3f9&agrupador=0
+
+topicos especiais em computação teste verificação de software - Pesquisa Google
+https://www.google.com.br/search?q=topicos+especiais+em+computa%C3%A7%C3%A3o+teste+verifica%C3%A7%C3%A3o+de+software&oq=topicos+especiais+em+computa%C3%A7%C3%A3o+teste+verifica%C3%A7%C3%A3o+de+software&aqs=chrome..69i57.792882j0j1&sourceid=chrome&ie=UTF-8
+
+Inscrições - PPGC – UFRGS
+http://www.inf.ufrgs.br/ppgc/mestrado/inscricoes/
+
+PPGC | Portal de Inscrições
+https://www.inf.ufrgs.br/ppgc/sistema/inscricoes/inscricao.php?acao=gerenciarExperiencias&id=27
+
+e-MEC - 1 v.3.871.0-3818
+http://emec.mec.gov.br/
+
+e-MEC - Sistema de Regulação do Ensino Superior
+http://emec.mec.gov.br/emec/consulta-cadastro/detalhamento/d96957f455f6405d14c6542552b0f6eb/MjE4NA==/c1b85ea4d704f246bcced664fdaeddb6/U0lTVEVNQVMgREUgSU5GT1JNQcfDTw==
+
+e-MEC - Sistema de Regulação do Ensino Superior
+http://emec.mec.gov.br/emec/consulta-cadastro/detalhamento/d96957f455f6405d14c6542552b0f6eb/MjE4NA==
+
+68169.pdf
+file:///C:/Users/jeferson-padilha/Downloads/68169.pdf
+
+SOE
+https://www.soe.rs.gov.br/soe/html/default.html
+
+dias jogo brasil copa 2018 - Pesquisa Google
+https://www.google.com.br/search?q=dias+jogo+brasil+copa+2018&oq=dias+jogo+brasil+copa+2018&aqs=chrome..69i57j0l5.7423j0j1&sourceid=chrome&ie=UTF-8
+
+Quais os horários dos jogos do Brasil na Copa do Mundo da Rússia - Prisma - R7 Copa 2018
+https://esportes.r7.com/prisma/copa-2018/quais-os-horarios-dos-jogos-do-brasil-na-copa-do-mundo-da-russia-29062018
+
+INTRANET PROCERGS - Cia. de Processamento de Dados do Estado do Rio Grande do Sul
+http://intranet/
+
+Serviços Internos
+https://secweb.intra.rs.gov.br/fei/mod-dissidio/dissidio-form.xhtml
+
 
 maven reports - Pesquisa Google
 https://www.google.com.br/search?q=maven+reports&rlz=1C1NDCM_pt-BRBR796BR796&oq=maven+reports&aqs=chrome..69i57j0l5.4648j1j7&sourceid=chrome&ie=UTF-8
@@ -1838,4 +2012,333 @@ https://www.soapui.org/test-automation/maven/maven-2-x.html
 
 SpotBugs
 https://spotbugs.github.io/
+
+G1 - O portal de notícias da Globo
+https://g1.globo.com/
+
+Expresso Livre - Conectar
+https://expresso.rs.gov.br/login.php?cd=10
+
+Fábrica Interna - GFI Sprint 0 - Microsoft Team Foundation Server
+https://tfs.pro.intra.rs.gov.br/tfs/PROCERGSCollection/DTS.ST1.GFI/F%C3%A1brica%20Interna%20-%20GFI/_backlogs/iteration/Sprint%200
+
+testar software - Pesquisa Google
+https://www.google.com.br/search?q=testar+software&newwindow=1&safe=active&ei=8JZMW8LgHYyd5gLV4arwDw&start=10&sa=N&biw=1920&bih=947
+
+Os 13 principais tipos de Testes de Software!
+https://targettrust.com.br/blog/os-13-principais-tipos-de-testes-de-software/
+
+Teste de Software - Veja os tipos de Teste - Testar.me
+https://www.testar.me/
+
+Teste de Software: Introdução, Conceitos Básicos e Tipos de Teste
+http://blog.onedaytesting.com.br/teste-de-software/
+
+testar software cenarios - Pesquisa Google
+https://www.google.com.br/search?q=testar+software+cenarios&newwindow=1&safe=active&source=lnms&sa=X&ved=0ahUKEwi6ifCQ2aPcAhXjp1kKHYJIDH0Q_AUICSgA&biw=1920&bih=947&dpr=1
+
+teste software valor maior menor diferente - Pesquisa Google
+https://www.google.com.br/search?q=teste+software+valor+maior+menor+diferente&newwindow=1&safe=active&ei=Yp9MW7XcKo7c5gK9k4eYAg&start=20&sa=N&biw=1920&bih=947
+
+04 Lista exercicios teste JUnit TDD - Teste de Softwares
+https://www.passeidireto.com/arquivo/31449226/04-lista-exercicios-teste-junit-tdd
+
+Teste de software – Conheça a técnica do Pairwise
+https://www.primesoft.com.br/blog/teste-de-software-conheca-tecnica-do-pairwise-matrizes-ortogonais/
+
+Introdução ao Teste de Software - Marcio Delamaro, Mario Jino, Jose Maldonado - Google Livros
+https://books.google.com.br/books?id=1rA4DwAAQBAJ&pg=PA97&lpg=PA97&dq=teste+software+valor+maior+menor+diferente&source=bl&ots=qEYu5VUT7e&sig=_iTX-Bctk4ykM7-Wz0qowvQa3wM&hl=pt-BR&sa=X&ved=0ahUKEwi1lZ_Y3qPcAhUOrlkKHb3JASM4ChDoAQhlMAk#v=onepage&q=teste%20software%20valor%20maior%20menor%20diferente&f=false
+
+falhas mais comuns software - Pesquisa Google
+https://www.google.com.br/search?q=falhas+mais+comuns+software&oq=falhas+mais+comuns+software&aqs=chrome..69i57.6454j0j1&sourceid=chrome&ie=UTF-8
+
+bugs comuns software - Pesquisa Google
+https://www.google.com.br/search?q=bugs+comuns+software&oq=bugs+comuns+software&aqs=chrome..69i57.5214j0j1&sourceid=chrome&ie=UTF-8
+
+Testes de software - Entendendo Defeitos, Erros e falhas
+https://www.devmedia.com.br/testes-de-software-entendendo-defeitos-erros-e-falhas/22280
+
+teste software se campo vazio maior valor menor valor - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&biw=1920&bih=947&ei=JaJMW4HSNoXJ5gKe7ZP4DQ&q=teste+software+se+campo+vazio+maior+valor+menor+valor&oq=teste+software+se+campo+vazio+maior+valor+menor+valor&gs_l=psy-ab.12...0.0.0.1903.0.0.0.0.0.0.0.0..0.0....0...1c..64.psy-ab..0.0.0....0.YfaVeTMs9KE
+
+Grupo de Testadores de Software: Casos de Teste Fundamentais
+http://gtsw.blogspot.com/2008/02/casos-de-teste-fundamentais.html
+
+Grupo de Testadores de Software: caso de teste
+http://gtsw.blogspot.com/search/label/caso%20de%20teste
+
+software casos teste - Pesquisa Google
+https://www.google.com.br/search?q=software+casos+teste&newwindow=1&safe=active&ei=uqpMW9r_CPKN5wL_4aKAAw&start=10&sa=N&biw=1920&bih=947
+
+Como fazer um plano de testes baseado em casos de uso
+http://www.linhadecodigo.com.br/artigo/2958/como-fazer-um-plano-de-testes-baseado-em-casos-de-uso.aspx
+
+Testes de Software: Casos de Testes
+http://testandosoftware.blogspot.com/2008/06/casos-de-testes.html
+
+Diretrizes: Caso de Teste
+http://www.funpar.ufpr.br:8080/rup/process/modguide/md_tstcs.htm
+
+Criação e Geração de Planos de Teste de Software
+https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html
+
+Microsoft PowerPoint - Aula02-Curso de Testes de Software - NTI.v01.pptx
+file:///C:/Users/jeferson-padilha/Downloads/Aula02-Curso%20de%20Testes%20de%20Software%20-%20NTI.pdf
+
+8 dicas para uma escrita de Casos de Testes | Vinicius Sabadoti
+https://viniciussabadoti.wordpress.com/2011/02/15/8-dicas-para-uma-escrita-de-casos-de-testes/
+
+Técnicas de Teste - Boas-Vindas | Coursera
+https://www.coursera.org/lecture/intro-teste-de-software/tecnicas-de-teste-SSZtc
+
+Dicas para Escrita de Casos de Teste – CWI Software – Medium
+https://medium.com/cwi-software/dicas-para-escrita-de-casos-de-teste-ccea14a7fdd9
+
+Casos de Teste – Elias Nogueira
+http://eliasnogueira.com/casos-de-teste/
+
+Casos de teste e técnicas utilizadas para teste de software - Portal Educação
+https://www.portaleducacao.com.br/conteudo/artigos/conteudo/casos/58394
+
+software development - Pesquisa Google
+https://www.google.com.br/search?q=software+development&newwindow=1&safe=active&tbs=simg:CAESxQIJ5xRdDbR9VbsauQILEKjU2AQaBggVCAEICQwLELCMpwgaYgpgCAMSKO0I7AjEA5sXmhfpFcwBvAyQC7gOhzSGNLAogDeFNIkn4zaBN4cnhDQaMDlt7jX-fI8D4SI0RxBs9Pek01LaNQH18nXbLan3X10pHgXQOD8Hx6WLVDCbOP5IZyAEDAsQjq7-CBoKCggIARIEnSOAXQwLEJ3twQkaogEKIQoOZGlzcGxheSBkZXZpY2XapYj2AwsKCS9tLzAyOXp6NgodCgpzY3JlZW5zaG902qWI9gMLCgkvbS8wMXpibncKGwoIZGFya25lc3PapYj2AwsKCS9tLzAxa3lyOAodCgtlbGVjdHJvbmljc9qliPYDCgoIL20vMDJtcnAKIgoQY29tcHV0ZXIgcHJvZ3JhbdqliPYDCgoIL20vMDFyOXYM,isz:l&tbm=isch&source=lnt&sa=X&ved=0ahUKEwjqj_rt46PcAhVJzlkKHZmoAPoQpwUIHw&biw=1920&bih=947&dpr=1
+
+INTRANET PROCERGS - Cia. de Processamento de Dados do Estado do Rio Grande do Sul
+http://intranet/
+
+Subprocesso de Teste – Site do Desenvolvimento
+http://desenvolvimento.blog.procergs.reders/2014/06/27/subprocesso-de-teste/
+
+The art of software testing – /Myers, Glenford - Pesquisa Google
+https://www.google.com.br/search?q=The+art+of+software+testing+%E2%80%93+%2FMyers%2C+Glenford&oq=The+art+of+software+testing+%E2%80%93+%2FMyers%2C+Glenford&aqs=chrome..69i57j69i64&sourceid=chrome&ie=UTF-8
+
+Guia de Teste
+https://secweb.intra.rs.gov.br/tsgpc001/ViewDoc/viewdoc.jsp?r_object_id=GTeste.pdf&agrupador=0
+
+syllabus_ctfl_2011br.pdf
+http://bstqb.org.br/uploads/syllabus/syllabus_ctfl_2011br.pdf
+
+syllabus_ctfl_at_2014br.pdf
+http://bstqb.org.br/uploads/syllabus/syllabus_ctfl_at_2014br.pdf
+
+JUnit para Testadores | Udemy
+https://www.udemy.com/junit-para-testadores/
+
+Cursos online - a qualquer hora, em qualquer lugar | Udemy
+https://www.udemy.com/courses/search/?q=driven%20domain%20design&src=ukw&p=4
+
+Testes funcionais com Selenium WebDriver: Do básico ao GRID | Udemy
+https://www.udemy.com/testes-funcionais-com-selenium-webdriver/
+
+Transplante de mitocôndrias restaura órgãos doentes de recém-nascidos - 16/07/2018 - UOL VivaBem
+https://vivabem.uol.com.br/noticias/redacao/2018/07/16/transplante-de-mitocondrias-restaura-orgaos-doentes-de-recem-nascidos.htm
+
+401 Authorization Required
+http://svn.procergs.reders/javacolaborativo/prarqjava4/branches/eap7/src/main/java/com/procergs/arqjava4/rest/SegurancaRestInterceptor.java
+
+SOE
+https://www.soe.rs.gov.br/soe/html/default.html
+
+Alura | Cursos online de tecnologia
+https://www.alura.com.br/
+
+(4271) Caixa de entrada - Expresso Livre
+https://expresso.rs.gov.br/expressoMail/index.php
+
+Consultas ao acervo | Universidade Corporativa PROCERGS
+http://ucprocergs.site.procergs.reders/biblioteca/consultas-ao-acervo/
+
+Mapa_Programas_UC_V45
+https://secweb.intra.rs.gov.br/tsgpc001/ViewDoc/viewdoc.jsp?r_object_id=090227688057b3f9&agrupador=0
+
+topicos especiais em computação teste verificação de software - Pesquisa Google
+https://www.google.com.br/search?q=topicos+especiais+em+computa%C3%A7%C3%A3o+teste+verifica%C3%A7%C3%A3o+de+software&oq=topicos+especiais+em+computa%C3%A7%C3%A3o+teste+verifica%C3%A7%C3%A3o+de+software&aqs=chrome..69i57.792882j0j1&sourceid=chrome&ie=UTF-8
+
+Inscrições - PPGC – UFRGS
+http://www.inf.ufrgs.br/ppgc/mestrado/inscricoes/
+
+PPGC | Portal de Inscrições
+https://www.inf.ufrgs.br/ppgc/sistema/inscricoes/inscricao.php?acao=gerenciarExperiencias&id=27
+
+e-MEC - 1 v.3.871.0-3818
+http://emec.mec.gov.br/
+
+e-MEC - Sistema de Regulação do Ensino Superior
+http://emec.mec.gov.br/emec/consulta-cadastro/detalhamento/d96957f455f6405d14c6542552b0f6eb/MjE4NA==/c1b85ea4d704f246bcced664fdaeddb6/U0lTVEVNQVMgREUgSU5GT1JNQcfDTw==
+
+e-MEC - Sistema de Regulação do Ensino Superior
+http://emec.mec.gov.br/emec/consulta-cadastro/detalhamento/d96957f455f6405d14c6542552b0f6eb/MjE4NA==
+
+68169.pdf
+file:///C:/Users/jeferson-padilha/Downloads/68169.pdf
+
+SOE
+https://www.soe.rs.gov.br/soe/html/default.html
+
+dias jogo brasil copa 2018 - Pesquisa Google
+https://www.google.com.br/search?q=dias+jogo+brasil+copa+2018&oq=dias+jogo+brasil+copa+2018&aqs=chrome..69i57j0l5.7423j0j1&sourceid=chrome&ie=UTF-8
+
+Quais os horários dos jogos do Brasil na Copa do Mundo da Rússia - Prisma - R7 Copa 2018
+https://esportes.r7.com/prisma/copa-2018/quais-os-horarios-dos-jogos-do-brasil-na-copa-do-mundo-da-russia-29062018
+
+INTRANET PROCERGS - Cia. de Processamento de Dados do Estado do Rio Grande do Sul
+http://intranet/
+
+Serviços Internos
+https://secweb.intra.rs.gov.br/fei/mod-dissidio/dissidio-form.xhtml
+
+Maven: Aula 6 - Atividade 12 Resumo final | Alura - Cursos online de tecnologia
+https://cursos.alura.com.br/course/maven-build-do-zero-a-web/task/14860
+
+mavenwebapp Maven Webapp
+file:///C:/Workspace/cursosEveryWhere/Maven/projetosMaven/mavenwebapp/target/site/jacoco/index.html
+
+Apache Maven PMD Plugin – pmd:check
+https://maven.apache.org/plugins/maven-pmd-plugin/check-mojo.html#failOnViolation
+
+Programação | Alura - Cursos online de tecnologia
+https://cursos.alura.com.br/category/programacao
+
+Java: Laboratório web de práticas e tecnologias | Alura - Cursos online de tecnologia
+https://cursos.alura.com.br/course/projeto-javaee
+
+Mock: Testes de comportamentos automatizados em Java | Alura - Cursos online de tecnologia
+https://cursos.alura.com.br/course/mock
+
+xstream java - Pesquisa Google
+https://www.google.com.br/search?q=xstream+java&rlz=1C1NDCM_pt-BRBR796BR796&oq=xstream+&aqs=chrome.1.69i57j0l5.4458j1j7&sourceid=chrome&ie=UTF-8
+
+Trabalhando com a biblioteca XStream em Java
+https://www.devmedia.com.br/trabalhando-com-a-biblioteca-xstream-em-java/27194
+
+xstream byte array - Pesquisa Google
+https://www.google.com.br/search?q=xstream+byte+array&rlz=1C1NDCM_pt-BRBR796BR796&oq=wxstream+byte&aqs=chrome.1.69i57j0l4.9689j1j7&sourceid=chrome&ie=UTF-8
+
+XStream - Converters
+http://x-stream.github.io/converters.html
+
+maven phases - Pesquisa Google
+https://www.google.com.br/search?q=maven+phases&rlz=1C1NDCM_pt-BRBR796BR796&oq=maven+phases&aqs=chrome..69i57j69i60j0j35i39l2j0.3203j1j7&sourceid=chrome&ie=UTF-8
+
+Maven – Introduction to the Build Lifecycle
+https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
+
+Resultados do PMD
+file:///C:/Workspace/cursosEveryWhere/Maven/projetosMaven/mavenwebapp/target/site/pmd.html
+
+java - JUnit assertEquals(double expected, double actual, double epsilon) - Stack Overflow
+https://stackoverflow.com/questions/5939788/junit-assertequalsdouble-expected-double-actual-double-epsilon
+
+Cupula Conica Abajur - Luminárias de Mesa no Mercado Livre Brasil
+https://lista.mercadolivre.com.br/casa-moveis-decoracao/iluminacao-residencial/luminarias/mesa/cupula-conica-abajur
+
+Abajures no Mercado Livre Brasil
+https://lista.mercadolivre.com.br/casa-moveis-decoracao/iluminacao-residencial/luminarias/mesa/abajures/abajur_Desde_97
+
+urso pimpão - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&biw=958&bih=994&tbm=isch&sa=1&ei=evlLW7_zKciy5gLU07iQCQ&q=urso+pimp%C3%A3o&oq=urso+pimpao&gs_l=img.3.0.0j0i24k1l5.69975.72818.0.75641.11.10.0.1.1.0.222.1201.0j3j3.6.0....0...1c.1.64.img..4.7.1206...0i67k1j35i39k1j0i30k1.0.uKxAYC3hHzc
+
+estrelinha magica tectoy turma da monica - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&ei=afdLW-fZF_LP5gK3iYCICA&q=estrelinha+magica+tectoy+turma+da+monica&oq=Estrelinha+Magica+Tectoy+&gs_l=psy-ab.3.2.0j0i22i30k1l2.1492.1492.0.5101.1.1.0.0.0.0.245.245.2-1.1.0....0...1c.1.64.psy-ab..0.1.244....0.xvOWRFMXplw
+
+custom-pmd-rule-example/pom.xml at master · techtraits/custom-pmd-rule-example · GitHub
+https://github.com/techtraits/custom-pmd-rule-example/blob/master/pom.xml
+
+Duas empresas lideram corrida e turismo espacial pode estar cada vez mais próximo | Ciência e Saúde | G1
+https://g1.globo.com/ciencia-e-saude/noticia/duas-empresas-lideram-corrida-e-turismo-espacial-pode-estar-cada-vez-mais-proximo.ghtml
+
+Virgin Galactic - Pesquisa Google
+https://www.google.com.br/search?q=Virgin+Galactic&newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&source=lnms&tbm=vid&sa=X&ved=0ahUKEwjOuZv-z6LcAhUsrVkKHdIXC5IQ_AUIDCgD&biw=958&bih=994
+
+(17) Best Sport Vines 2018 - April - Week 3 - YouTube
+https://www.youtube.com/watch?v=YztCRMylBZQ
+
+Fantástico - Karina Oliani encontra na Estônia pedaço da antiga União Soviética
+http://g1.globo.com/fantastico/noticia/2018/07/karina-oliani-encontra-na-estonia-pedaco-da-antiga-uniao-sovietica.html
+
+maven java test plugin - Pesquisa Google
+https://www.google.com.br/search?q=maven+java+test+plugin&newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&ei=CDxNW9jrN-WH5wLCt7aQAg&start=30&sa=N&biw=1920&bih=1012
+
+DZone Java
+https://dzone.com/java-jdk-development-tutorials-tools-news
+
+6848282-rc0008-designpatterns-online.pdf
+https://dzone.com/storage/assets/6848282-rc0008-designpatterns-online.pdf
+
+9163261-dzone-refcard93-leansoftwaredevelopment.pdf
+https://dzone.com/storage/assets/9163261-dzone-refcard93-leansoftwaredevelopment.pdf
+
+Eclipse Plug-in Development - DZone - Refcardz
+https://dzone.com/refcardz/eclipse-plug-development?chapter=11
+
+New Features and Plugins in Eclipse - DZone Java
+https://dzone.com/articles/new-features-eclipse-juno?fromrel=true
+
+6267444-dzone-rc003-eclipse.pdf
+https://dzone.com/storage/assets/6267444-dzone-rc003-eclipse.pdf
+
+what is dropwizard in eclipse - Pesquisa Google
+https://www.google.com.br/search?q=what+is+dropwizard+in+eclipse&rlz=1C1NDCM_pt-BRBR796BR796&oq=what+is+dropwizard+in+eclipse&aqs=chrome..69i57.11145j1j7&sourceid=chrome&ie=UTF-8
+
+G1 - O portal de notícias da Globo
+https://g1.globo.com/
+
+maven jboss plugin - Pesquisa Google
+https://www.google.com.br/search?q=maven+jboss+plugin&rlz=1C1NDCM_pt-BRBR796BR796&oq=maven+jboss+plugin&aqs=chrome..69i57j0l5.14279j1j7&sourceid=chrome&ie=UTF-8
+
+JBoss Application Server 7 Maven Plugin – Adding Resources Example
+https://docs.jboss.org/jbossas/7/plugins/maven/latest/examples/add-resource-example.html
+
+web.xml servlet 4.0.1 example - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&ei=Z0VNW7nRFvLP5gK3iYCICA&q=web.xml+servlet+4.0.1+example&oq=web.xml+servlet+4.0.1+example&gs_l=psy-ab.3...311213.316143.0.316871.8.8.0.0.0.0.272.1763.0j2j6.8.0....0...1c.1.64.psy-ab..0.5.1126...0j0i30k1j35i39k1j0i7i30k1j0i8i7i30k1.0.ynRMSaR-_uk
+
+java ee - element web-app must be declared(Servlet 4.0) - Stack Overflow
+https://stackoverflow.com/questions/47349355/element-web-app-must-be-declaredservlet-4-0
+
+Servlet-4.0-Sampler/web.xml at master · readlearncode/Servlet-4.0-Sampler · GitHub
+https://github.com/readlearncode/Servlet-4.0-Sampler/blob/master/src/main/webapp/WEB-INF/web.xml
+
+Java-EE-8-Sampler/web.xml at master · readlearncode/Java-EE-8-Sampler · GitHub
+https://github.com/readlearncode/Java-EE-8-Sampler/blob/master/servlets-4-0/src/main/webapp/WEB-INF/web.xml
+
+Error 503 Service Unavailable
+http://localhost:8080/test/
+
+java.util.zip.ZipException: invalid LOC header (bad signature) - Pesquisa Google
+https://www.google.com.br/search?q=java.util.zip.ZipException%3A+invalid+LOC+header+(bad+signature)&rlz=1C1NDCM_pt-BRBR796BR796&oq=java.util.zip.ZipException%3A+invalid+LOC+header+(bad+signature)&aqs=chrome..69i57.810j0j7&sourceid=chrome&ie=UTF-8
+
+Deploying Maven project throws java.util.zip.ZipException: invalid LOC header (bad signature) - Stack Overflow
+https://stackoverflow.com/questions/32090921/deploying-maven-project-throws-java-util-zip-zipexception-invalid-loc-header-b
+
+system development - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&biw=1920&bih=1012&tbm=isch&sa=1&ei=EVJNW8OdNciszwLu56GYAg&q=system+development&oq=system+development&gs_l=img.3..0j0i67k1j0i30k1l8.5680.5680.0.6017.1.1.0.0.0.0.214.214.2-1.1.0....0...1c.1.64.img..0.1.214....0.LyhF2VWabgo
+
+software development - Pesquisa Google
+https://www.google.com.br/search?q=software+development&newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&tbs=isz:lt,islt:2mp&tbm=isch&source=lnt&sa=X&ved=0ahUKEwj056fHiaXcAhUBvVMKHcb_BSYQpwUIHg&biw=1920&bih=1012&dpr=1#imgdii=Kae1wkK2aJ23TM:&imgrc=ml_cKo_Ld3m_xM:
+
+coding software - Pesquisa Google
+https://www.google.com.br/search?q=coding+software&newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&tbm=isch&source=lnt&tbs=isz:lt,islt:2mp&sa=X&ved=0ahUKEwj0he6ZiqXcAhXQ2VMKHcLDACoQpwUIHw&biw=1920&bih=963&dpr=1#imgrc=e5YbTqUngfJFDM:
+
+coding program - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&biw=1920&bih=963&tbs=isz%3Alt%2Cislt%3A2mp&tbm=isch&sa=1&ei=glNNW7aXAcy3zwKwxrqwAg&q=coding+program&oq=coding+program&gs_l=img.3..0i19k1l4j0i5i30i19k1l6.3055.5831.0.6343.7.7.0.0.0.0.378.1644.2-6j1.7.0....0...1c.1.64.img..0.7.1641...0j0i30k1.0.BeSLdZ-Fkzo#imgrc=ge1iNhLOj7t_rM:
+
+code program - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&biw=1920&bih=963&tbs=isz%3Alt%2Cislt%3A2mp&tbm=isch&sa=1&ei=xlNNW6CsBM6fzwLfx4HgAg&q=code+program&oq=code+program&gs_l=img.3..0l4j0i7i30k1l2j0i7i5i30k1l2j0i30k1l2.4097.6152.0.6773.4.4.0.0.0.0.313.942.2-3j1.4.0....0...1c.1.64.img..0.4.940...0i8i7i30k1.0.WM7y96_mkAU#imgrc=CIYta2Df33ybTM:
+
+stella core - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&rlz=1C1NDCM_pt-BRBR796BR796&ei=_FRNW7efE8-K5wKf5JeQBQ&q=stella+core&oq=stella+core&gs_l=psy-ab.3..0j0i203k1j0i22i30k1l2j0i22i10i30k1l2j0i22i30k1l2j0i22i10i30k1j0i22i30k1.26687.27840.0.28196.5.5.0.0.0.0.205.797.0j2j2.4.0....0...1c.1.64.psy-ab..1.4.797...0i67k1j0i131k1j0i10k1.0.sB5C0QhLum8
+
+Home · caelum/caelum-stella Wiki · GitHub
+https://github.com/caelum/caelum-stella/wiki
+
+juntar imagens - Pesquisa Google
+https://www.google.com.br/search?q=juntar+imagens&rlz=1C1NDCM_pt-BRBR796BR796&oq=juntar+imagens&aqs=chrome..69i57j0l5.4012j1j7&sourceid=chrome&ie=UTF-8
+
+Colagem | Fotor
+https://www.fotor.com/pt/app.html#/collage/b3a909f0-8a1b-11e8-962c-e16ebd67c82a/classic
+
+Juntar arquivos PDF
+https://pdfjoiner.com/pt/
+
+
 
