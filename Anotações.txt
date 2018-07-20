@@ -1377,4 +1377,224 @@ https://courses.cs.washington.edu/courses/cse143/11wi/eclipse-tutorial/junit.sht
 vs code generate java code - Pesquisa Google
 https://www.google.com.br/search?q=vs+code+generate+java+code&newwindow=1&safe=active&ei=N_NQW4zWHs_U5gK2xITYDg&start=10&sa=N&biw=1920&bih=898
 
+------------
+Builder Patterns plugin
+Cucumber Eclipse Plugin
+intrace eclipse
+FindBigs
+checkStyle Plugin
+pmd-eclipse-plugin
+eclipse-pmd
+PMD Eclipse
+Linticator
+SonarLint
+SpotBugs eclipse plugin
+Eclipse Code Recomender
+Eclipse Metrics
+Snipmatch
+SubEclipse
+-------------
+
+chrome:
+https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb
+https://chrome.google.com/webstore/detail/export-tabs/odafagokkafdbbeojliiojjmimakacil
+https://chrome.google.com/webstore/detail/stopwatch/nkepjmbmhhaphccdnmhemllmkhigmlpd
+https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp
+https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj
+https://chrispederick.com/work/web-developer/
+https://better.tw/
+https://chrome.google.com/webstore/detail/tweetdeck-launcher/kmjdnkpkpnjblbgbnkeedepgnomafojk
+https://chrome.google.com/webstore/detail/moderndeck/pbpfgdgddpnbjcbpofmdanfbbigocklj
+https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca
+https://chrome.google.com/webstore/detail/tomato-timer/hffgokcnajmdbklfcbdiopgnbjlpemmk
+https://chrome.google.com/webstore/detail/block-site-website-blocke/eiimnmioipafcokbfikbljfdeojpcgbh
+https://github.com/schmich/marinara
+https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo
+https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo
+------*--
+
+
+eclipse gerar criar codigo automatica - Pesquisa Google
+https://www.google.com.br/search?q=eclipse+gerar+criar+codigo+automatica&newwindow=1&safe=active&ei=38hRW5roFcKXwQSY0oagCA&start=60&sa=N&biw=1920&bih=947
+
+Gerando CRUD completo para Demoiselle com plugin code2code | Demoiselle Framework's Blog
+https://frameworkdemoiselle.wordpress.com/2009/12/10/gerando-crud-completo-para-demoiselle-com-plugin-code2code/
+
+Como fazer um Applet Com Eclipse para Java
+http://ptcomputador.com/P/java-programming/90421.html
+
+Lombok: deixe o código repetitivo de lado
+http://thecodeinside.com/deixando-o-codigo-repetitivo-de-lado-com-lombok/
+
+eclipse generate code - Pesquisa Google
+https://www.google.com.br/search?q=eclipse+generate+code&oq=eclipse+generate+code&aqs=chrome..69i57j69i60j69i59j0l3.5494j0j1&sourceid=chrome&ie=UTF-8
+
+Telosys code generator for Java, JavaScript, Python, NodeJS, PHP, C#, JavaEE, Spring, JAX-RS, VueJS, Angular, JPA, etc | Eclipse Plugins, Bundles and Products - Eclipse Marketplace
+https://marketplace.eclipse.org/content/telosys-code-generator-java-javascript-python-nodejs-php-c-javaee-spring-jax-rs-vuejs#group-screenshots
+
+Classtemplater | Eclipse Plugins, Bundles and Products - Eclipse Marketplace
+https://marketplace.eclipse.org/content/classtemplater#group-screenshots
+
+Java coded templates ( or code snippets ) | Eclipse Plugins, Bundles and Products - Eclipse Marketplace
+https://marketplace.eclipse.org/content/java-coded-templates-or-code-snippets#group-screenshots
+
+Acceleo | Eclipse Plugins, Bundles and Products - Eclipse Marketplace
+https://marketplace.eclipse.org/content/acceleo
+
+Site | Eclipse Plugins, Bundles and Products - Eclipse Marketplace
+https://marketplace.eclipse.org/search/site/template?page=1
+
+eclipse code generator - Pesquisa Google
+https://www.google.com.br/search?q=eclipse+code+generator&newwindow=1&safe=active&ei=ocxRW8_VHIWQwgSx7auAAw&start=50&sa=N&biw=1920&bih=947
+
+Java Code Generation - Eclipsepedia
+https://wiki.eclipse.org/Java_Code_Generation
+
+What are the best Java code generation tools or plugins to use in Eclipse? - Stack Overflow
+https://stackoverflow.com/questions/360282/what-are-the-best-java-code-generation-tools-or-plugins-to-use-in-eclipse
+
+Telosys code generator for Java, JavaScript, Python, NodeJS, PHP, C#, etc
+http://www.telosys.org/
+
+Xtend - Modernized Java
+http://www.eclipse.org/xtend/
+
+fast-code.sourceforge.net/templates-config.xml
+http://fast-code.sourceforge.net/templates-config.xml
+
+Free Production Code Generation Evaluation Kit (Based on Eclipse IDE) – Featuring the Simulink Data Dictionary - MATLAB & Simulink
+https://www.mathworks.com/campaigns/products/offer/download_pcg.html
+
+eclipse code template - Pesquisa Google
+https://www.google.com.br/search?q=eclipse+code+template&oq=eclipse+code+template&aqs=chrome..69i57j69i60l3j0l2.8462j0j1&sourceid=chrome&ie=UTF-8
+
+Help - Eclipse Platform
+https://help.eclipse.org/mars/index.jsp?topic=%2Forg.eclipse.jdt.doc.user%2FgettingStarted%2Fqs-EditorTemplates.htm
+
+Eclipse – Code Templates – Handerson Frota – WEB2.0
+http://www.handersonfrota.com.br/eclipse-code-templates/
+
+Custom Code Templates in Eclipse IDE - Benjamin Winterberg
+https://winterbe.com/posts/2009/08/12/custom-code-templates-eclipse/
+
+DZone: Programming & DevOps news, tutorials & tools
+https://dzone.com/search?page=1
+
+A Review of Template Engines: What Next After Velocity? - DZone Java
+https://dzone.com/articles/template-engines-review-after-deprecated-velocity
+
+Template Method Pattern Tutorial with Java Examples - DZone Java
+https://dzone.com/articles/design-patterns-template-method
+
+Simple Templating System for Java - DZone Java
+https://dzone.com/articles/simple-templating-system-java
+
+Eclipse Template: Comment For Created Java Files - DZone
+https://dzone.com/articles/eclipse-template-comment
+
+Cachorra resgata sete gatinhos em floresta e vira sensação na web - 20/07/2018 - UOL Universa
+https://universa.uol.com.br/noticias/redacao/2018/07/20/cachorra-resgata-sete-gatinhos-em-floresta-e-vira-sensacao-na-web.htm
+
+AERO Magazine
+https://aeromagazine.uol.com.br/
+
+Blog da Regina Navarro Lins - UOL
+https://reginanavarro.blogosfera.uol.com.br/
+
+Como conquistar quem desejamos? Sexo bom não é a reposta - Blog da Regina Navarro Lins - UOL
+https://reginanavarro.blogosfera.uol.com.br/2018/07/19/como-conquistar-quem-desejamos-2/
+
+Casal Obama mantém invisibilidade em sua vida em Washington - 20/07/2018 - Mundo - Folha
+https://www1.folha.uol.com.br/mundo/2018/07/casal-obama-mantem-invisibilidade-em-sua-vida-em-washington.shtml
+
+(4300) Caixa de entrada - Expresso Livre
+https://expresso.rs.gov.br/expressoMail/index.php
+
+Viver na era da impaciência | Estilo | EL PAÍS Brasil
+https://brasil.elpais.com/brasil/2018/07/13/estilo/1531500834_994824.html
+
+New Tab
+chrome://newtab/
+
+processo desenvolvimento - Pesquisa Google
+https://www.google.com.br/search?q=processo+desenvolvimento&newwindow=1&safe=active&source=lnms&tbm=isch&sa=X&ved=0ahUKEwici_6rqq7cAhVBS5AKHfLJAXQQ_AUICigB&biw=1920&bih=947#imgrc=LH8GcnI9AmBbUM:
+
+eclipse always save deploy - Pesquisa Google
+https://www.google.com.br/search?q=eclipse+always+save+deploy&oq=eclipse+always+save+deploy&aqs=chrome..69i57.17414j0j1&sourceid=chrome&ie=UTF-8
+
+Help - Eclipse Platform
+https://help.eclipse.org/mars/index.jsp?topic=%2Forg.eclipse.wst.server.ui.doc.user%2Ftopics%2Ftwpub.html
+
+How to configure hot deploy in Eclipse – Mkyong.com
+https://www.mkyong.com/eclipse/how-to-configure-hot-deploy-in-eclipse/
+
+
+eclipse code template - Pesquisa Google
+https://www.google.com.br/search?q=eclipse+code+template&newwindow=1&safe=active&ei=eM5RW_eDMMaO8wXe7quACw&sqi=2&start=10&sa=N&biw=1920&bih=947
+
+Help - Eclipse Platform
+https://help.eclipse.org/mars/index.jsp?topic=%2Forg.eclipse.cdt.doc.user%2Ftasks%2Fcdt_t_add_codetemp.htm
+
+Create Eclipse Templates for Faster Java Coding - HowToDoInJava
+https://howtodoinjava.com/eclipse/create-eclipse-templates-for-faster-java-coding/
+
+How to Use Java Stream Collectors - DZone Java
+https://dzone.com/articles/java-stream-collectors
+
+5465820-rheladvancedlinux-cheat-sheet-r3v1.pdf
+https://dzone.com/storage/assets/5465820-rheladvancedlinux-cheat-sheet-r3v1.pdf
+
+A Guide to Eclipse Templates
+https://www.htmlgoodies.com/beyond/java/a-guide-to-eclipse-templates.html
+
+rest optional query param - Pesquisa Google
+https://www.google.com.br/search?q=rest+optional+query+param&newwindow=1&safe=active&ei=e9hRW8jUNYKdwgTc1ZnwBw&start=20&sa=N&biw=1920&bih=947
+
+JAX-RS - Using @QueryParam for Optional Parameters
+https://www.logicbig.com/tutorials/java-ee-tutorial/jax-rs/using-query-param.html
+
+JAX-RS @QueryParam example – Mkyong.com
+https://www.mkyong.com/webservices/jax-rs/jax-rs-queryparam-example/
+
+chat bradesco - Pesquisa Google
+https://www.google.com.br/search?q=chat+bradesco&oq=chat+bradesco&aqs=chrome..69i57j0l5.4606j0j1&sourceid=chrome&ie=UTF-8
+
+Fale Conosco | Bradesco
+https://banco.bradesco/html/classic/atendimento/fale-conosco/index.shtm
+
+validar boleto - Pesquisa Google
+https://www.google.com.br/search?q=validar+boleto&oq=validar+boleto&aqs=chrome..69i57j0l5.5871j0j1&sourceid=chrome&ie=UTF-8
+
+testar rest - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&q=testar+rest&spell=1&sa=X&ved=0ahUKEwiq_4T54a3cAhWCipAKHaU9AXwQBQglKAA&biw=1920&bih=947
+
+Chrome Web Store - post man
+https://chrome.google.com/webstore/search/post%20man?utm_source=chrome-ntp-icon&_category=extensions
+
+New Tab
+chrome://newtab/
+
+Postman - Chrome Web Store
+https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop/related?hl=en
+
+Using self-signed SSL certificates with Postman – Postman Blog
+http://blog.getpostman.com/2014/01/28/using-self-signed-certificates-with-postman/
+
+Swagger UI
+https://secweb.des.intra.rs.gov.br/gfi/apidocs/
+
+UOL - O melhor conteúdo
+https://www.uol.com.br/
+
+"Passei a ir até a boate gay com ele", diz Popó sobre filho homossexual | "Passei a ir até a boate gay com ele", diz Popó sobre filho homossexual | RedeTV! - TV Fama RedeTV!
+http://www.redetv.uol.com.br/tvfama/videos/celebridades/passei-a-ir-ate-a-boate-gay-com-ele-diz-popo-sobre-filho-homossexual
+
+Casal Obama mantém invisibilidade em sua vida em Washington - 20/07/2018 - Mundo - Folha
+https://www1.folha.uol.com.br/mundo/2018/07/casal-obama-mantem-invisibilidade-em-sua-vida-em-washington.shtml
+
+Despreparo emocional pode prejudicar estudantes brasileiros tanto quanto falta de conhecimento - BBC - UOL Educação
+https://educacao.uol.com.br/noticias/bbc/2018/07/19/despreparo-emocional-pode-prejudicar-estudantes-brasileiros-tanto-quanto-falta-de-conhecimento.htm
+
+Por que a comida afeta seu estado de consciência - Blog do Prem Baba
+https://prembaba.blogosfera.uol.com.br/2018/07/20/por-que-a-comida-afeta-seu-estado-de-consciencia/
 
