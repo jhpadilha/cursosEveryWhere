@@ -1187,3 +1187,194 @@ https://tfs.pro.intra.rs.gov.br/tfs/PROCERGSCollection/DTS.ST1.GFI/F%C3%A1brica%
 $(document).on("pfAjaxComplete", function () {
 [16:43:03] <Pestano> $(document).ready(function () {
 
+
+ferramentas auxiliar professor - Pesquisa Google
+https://www.google.com.br/search?q=ferramentas+auxiliar+professor&oq=ferramentas+auxiliar+professor&aqs=chrome..69i57j0l5.6822j0j1&sourceid=chrome&ie=UTF-8
+
+As 10 ferramentas online que todos os professores deveriam conhecer | Blog do Sílabe
+https://silabe.com.br/blog/10-ferramentas-online-para-facilitar-vida-dos-professores/
+
+aluno mestrado - Pesquisa Google
+https://www.google.com.br/search?q=aluno+mestrado&newwindow=1&safe=active&ei=anJPW8HsF4b3zgL_3beQAg&start=20&sa=N&biw=1920&bih=947
+
+Entenda como funciona o Mestrado | Guia do Estudante
+https://guiadoestudante.abril.com.br/pos-graduacao/entenda-como-funciona-o-mestrado/
+
+Instruções para alunos de mestrado – Vítor E. Silva Souza
+https://www.inf.ufes.br/~vitorsouza/academia/students-masters/
+
+Members – Ontology & Conceptual Modeling Research Group
+https://nemo.inf.ufes.br/members/
+
+0_56391900_1474299423.pdf
+https://www.udesc.br/arquivos/udesc/documentos/0_56391900_1474299423.pdf
+
+Estudantes de mestrado e doutorado relatam suas dores na pós-graduação - 18/12/2017 - Ciência - Folha de S.Paulo
+https://www1.folha.uol.com.br/ciencia/2017/12/1943862-estudantes-de-mestrado-e-doutorado-relatam-suas-dores-na-pos-graduacao.shtml
+
+Mestrado – Wikipédia, a enciclopédia livre
+https://pt.wikipedia.org/wiki/Mestrado
+
+pesquisa engenharia software - Pesquisa Google
+https://www.google.com.br/search?q=pesquisa+engenharia+software&oq=pesquisa+engenharia+software&aqs=chrome..69i57.8830j0j1&sourceid=chrome&ie=UTF-8
+
+grupos pesquisa engenharia software - Pesquisa Google
+https://www.google.com.br/search?q=grupos+pesquisa+engenharia+software&newwindow=1&safe=active&ei=I3dPW52SOoifzwKr-5_gDQ&start=10&sa=N&biw=1920&bih=947
+
+pesquisa engenharia software - Pesquisa Google
+https://www.google.com.br/search?q=pesquisa+engenharia+software&newwindow=1&safe=active&ei=QndPW4uPEIfezwLnwrfYCA&start=10&sa=N&biw=1920&bih=947
+
+java match - Pesquisa Google
+https://www.google.com.br/search?q=java+match&newwindow=1&safe=active&ei=sKNQW6inBZGgzwLKj7XIDg&start=10&sa=N&biw=1920&bih=947
+
+Regular expressions in Java - Tutorial
+http://www.vogella.com/tutorials/JavaRegularExpressions/article.html
+
+Java Regex - Matcher
+http://tutorials.jenkov.com/java-regex/matcher.html
+
+How-To: Regular Expressions in Java (Part 1) - Tutorial | Examples | OCPsoft
+http://www.ocpsoft.org/opensource/guide-to-regular-expressions-in-java-part-1/
+
+Java - String matches() Method example
+https://beginnersbook.com/2013/12/java-string-matches-method-example/
+
+Regular Expression in Java - Java Regex Example - JournalDev
+https://www.journaldev.com/634/regular-expression-in-java-regex-example
+
+regular expression find firt caracter - Pesquisa Google
+https://www.google.com.br/search?q=regular+expression+find+firt+caracter&oq=regular+expression+find+firt+caracter&aqs=chrome..69i57j0l5.10326j0j1&sourceid=chrome&ie=UTF-8
+
+Regex: matching up to the first occurrence of a character - Stack Overflow
+https://stackoverflow.com/questions/2013124/regex-matching-up-to-the-first-occurrence-of-a-character
+
+regular expression negate pattern example - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&ei=jsBQW8asItKUzwLc-q_4Ag&q=regular+expression+negate+pattern+example&oq=regular+expression+negate+pattern+example&gs_l=psy-ab.3...20797.25920.0.26056.23.16.0.0.0.0.713.1160.4-1j0j1.2.0....0...1c.1.64.psy-ab..21.2.1158...0j0i203k1j0i22i30k1.0.R9PKX7N0ZLc
+
+How to negate specific word in regex? - Stack Overflow
+https://stackoverflow.com/questions/1240275/how-to-negate-specific-word-in-regex
+
+regular expression conditional - Pesquisa Google
+https://www.google.com.br/search?q=regular+expression+conditional&oq=regular+expression+conditional&aqs=chrome..69i57j69i60j0l4.9166j0j1&sourceid=chrome&ie=UTF-8
+
+regex - Regular expression with if condition - Stack Overflow
+https://stackoverflow.com/questions/39222950/regular-expression-with-if-condition
+
+RegEx - Match With Conditional Lookaround? - Stack Overflow
+https://stackoverflow.com/questions/6092982/regex-match-with-conditional-lookaround
+
+Regular Expression Conditional Matching
+http://www.blackwasp.co.uk/RegexConditionalMatching.aspx
+
+Paola Machado - UOL
+https://paolamachado.blogosfera.uol.com.br/2018/07/19/tapioca-e-saudavel-sim-se-voce-escolher-o-recheio-e-a-hora-certa/
+
+Levar o cachorro para passear faz bem à sua saúde e à do animal - 19/07/2018 - UOL VivaBem
+https://vivabem.uol.com.br/noticias/redacao/2018/07/19/levar-o-cachorro-para-passear-faz-bem-a-sua-saude-e-a-do-animal.htm
+
+Saiba quais alimentos prejudicam o seu sono - 19/07/2018 - UOL VivaBem
+https://vivabem.uol.com.br/listas/saiba-quais-alimentos-prejudicam-a-qualidade-do-seu-sono.htm
+
+New Tab
+chrome://newtab/
+
+(17) eclipse plugin code assistent - YouTube
+https://www.youtube.com/results?search_query=eclipse+plugin+code+assistent
+
+(17) develop eclipse plugin - YouTube
+https://www.youtube.com/results?search_query=develop+eclipse+plugin+
+
+(17) Installing Java WindowBuilder (Gui Designer Plugin ) on Eclipse - YouTube
+https://www.youtube.com/watch?v=oeswfZz4IW0
+
+eclipse snippets - Pesquisa Google
+https://www.google.com.br/search?q=eclipse+snippets&newwindow=1&safe=active&ei=9fNQW6TMO6bx5gKWwKL4CA&start=20&sa=N&biw=1920&bih=947
+
+Fast Code Eclipse Plugin
+http://fast-code.sourceforge.net/
+
+Code Snippets · cfeclipse/cfeclipse Wiki · GitHub
+https://github.com/cfeclipse/cfeclipse/wiki/Code-Snippets
+
+Getting started with Eclipse code templates
+https://www.ibm.com/developerworks/opensource/tutorials/os-eclipse-code-templates/index.html
+
+Importing Eclipse snippets – IDEs Support (IntelliJ Platform) | JetBrains
+https://intellij-support.jetbrains.com/hc/en-us/community/posts/206284379-Importing-Eclipse-snippets
+
+Eclipse snippets for extension development - Grupos do Google
+https://groups.google.com/forum/#!topic/joomla-dev-general/EHkwx9e2R5Y
+
+(4290) Caixa de entrada - Expresso Livre
+https://expresso.rs.gov.br/expressoMail/index.php
+
+(17) 469 - Oh! Que esperança! - YouTube
+https://www.youtube.com/watch?v=_HGGqWTD4YE&list=PLzsXS8t_fcPjpGYoXZ8qnEloP9NHbCXlN&index=22
+
+BBC - Future - Home
+http://www.bbc.com/future
+
+(4290) Caixa de entrada - Expresso Livre
+https://expresso.rs.gov.br/expressoMail/index.php
+
+180717ATA_primeira_reuniaonegociacao_PROCERGS.pdf
+http://www.sindppd-rs.org.br/wp-content/uploads/2018/07/180717ATA_primeira_reuniaonegociacao_PROCERGS.pdf
+
+180709OFICIO_procergs_pedido-de-reuniao.pdf
+http://www.sindppd-rs.org.br/wp-content/uploads/2018/07/180709OFICIO_procergs_pedido-de-reuniao.pdf
+
+eclipse cucumber templates - Pesquisa Google
+https://www.google.com.br/search?newwindow=1&safe=active&ei=oIdQW57_DcWTzwLwnbDQBA&q=eclipse+cucumber+templates&oq=eclipse+cucumber+templates&gs_l=psy-ab.3...9470.10846.0.10988.8.7.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..8.0.0....0.r0uHwqWDwj8
+
+Cucumber-Eclipse > Sample Feature Definition Template
+https://cucumber.github.io/cucumber-eclipse//2016/02/19/sample-feature-template.html
+
+Site | Eclipse Plugins, Bundles and Products - Eclipse Marketplace
+https://marketplace.eclipse.org/search/site/sonarlint
+
+java array to list - Pesquisa Google
+https://www.google.com.br/search?q=java+array+to+list&oq=java+array+to+list&aqs=chrome..69i57j0l5.5126j0j1&sourceid=chrome&ie=UTF-8
+
+Converting array to list in Java - Stack Overflow
+https://stackoverflow.com/questions/2607289/converting-array-to-list-in-java
+
+java foreach map - Pesquisa Google
+https://www.google.com.br/search?q=java+foreach+map&oq=java+foreach+map&aqs=chrome..69i57j69i65j69i60l3j69i59.3791j0j1&sourceid=chrome&ie=UTF-8
+
+java - How to for each the hashmap? - Stack Overflow
+https://stackoverflow.com/questions/4234985/how-to-for-each-the-hashmap
+
+sort map - Pesquisa Google
+https://www.google.com.br/search?q=sort+map&oq=sort+map&aqs=chrome..69i57j0l5.6644j0j1&sourceid=chrome&ie=UTF-8
+
+How to sort a Map in Java – Mkyong.com
+https://www.mkyong.com/java/how-to-sort-a-map-in-java/
+
+string format int - Pesquisa Google
+https://www.google.com.br/search?q=string+format+int&oq=string+format+int&aqs=chrome..69i57j0l5.14069j0j1&sourceid=chrome&ie=UTF-8
+
+Format an Integer using Java String Format - Stack Overflow
+https://stackoverflow.com/questions/6034523/format-an-integer-using-java-string-format
+
+eclipse code generate - Pesquisa Google
+https://www.google.com.br/search?q=eclipse+code+generate&newwindow=1&safe=active&ei=1fJQW5qZOMeJ5wLIjYnwBw&start=40&sa=N&biw=1920&bih=898
+
+java - How can i create code generator in eclipse that can generate code regarding the class atributes - Stack Overflow
+https://stackoverflow.com/questions/32829875/how-can-i-create-code-generator-in-eclipse-that-can-generate-code-regarding-the
+
+Using the AutoValue Code Generator in Eclipse
+https://www.codeaffine.com/2014/03/04/using-the-autovalue-code-generator-in-eclipse/
+
+Code Generator Wizard Guide for Eclipse Plug-in
+https://svn.apache.org/repos/asf/axis/axis2/java/core/tags/v1.1.1/xdocs/tools/1_1/eclipse/wsdl2java-plugin.html
+
+25 Eclipse Shortcut Keys for Code Editing
+http://www.codejava.net/ides/eclipse/25-eclipse-shortcut-keys-for-code-editing
+
+Eclipse tutorials
+https://courses.cs.washington.edu/courses/cse143/11wi/eclipse-tutorial/junit.shtml
+
+vs code generate java code - Pesquisa Google
+https://www.google.com.br/search?q=vs+code+generate+java+code&newwindow=1&safe=active&ei=N_NQW4zWHs_U5gK2xITYDg&start=10&sa=N&biw=1920&bih=898
+
+
