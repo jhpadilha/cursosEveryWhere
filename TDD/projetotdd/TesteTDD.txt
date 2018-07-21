@@ -1,0 +1,61 @@
+Testes manuais
+	pensa em um cenario
+		pre condicoes para execucao do teste
+		situação pre definida
+		prepara dados para execucao do teste
+	executa teste ou acao
+	valida a saida,  resposta
+	
+	
+Testes automatizados de unidade nos trazem diversas vantagens.
+Nesse momento, as vantagens que são fáceis de ver:
+1) Um teste de unidade executa muito rápido. Veja que ele gasta apenas alguns milissegundos para ser executado. Imagine o tempo que um humano levaria.
+2) Um humano pode eventualmente executar um teste incorreto (montar o cenário ou validar a saída errada, por exemplo). A máquina nunca fará isso. A partir do momento que você escreveu o teste, ela sempre vai executar o mesmo teste.
+3) É muito mais divertido escrever um teste automatizado do que testar manualmente.
+Existem mais! Mas vamos estudá-las ao longo do curso!
+
+
+"hoje eu escrevo 100 linhas por dia; com testes, escreverei 50 linhas de código de produção e 50 linhas de código de testes. Ou seja, serei mais improdutivo".
+Depende da sua definição de produtividade. Se produtividade significa linhas de código de produção escritas por dia, talvez você seja menos produtivo. Agora, se sua definição é algo como "linhas de código escritas com qualidade", então, muito provavelmente, você será mais produtivo com testes.
+É difícil garantir qualidade de um sistema sem testes automatizados, por todos os motivos já citados ao longo deste capítulo.
+Além disso, alguns estudos mostram que programadores que escrevem testes, a longo prazo, são mais produtivos do que os que não escrevem e até gastam menos tempo depurando o código! Isso faz sentido: imagine um desenvolvedor que testa manualmente. Quantas vezes por dia ele executa o MESMO teste? O programador que automatiza o teste gasta seu tempo apenas 1 vez: escrevendo-o. Depois, executar o teste é rápido e barato. Ou seja, ao longo do tempo, escrever testes automatizados vai fazer você economizar tempo
+
+
+Quando devemos testar, quando testar vale a pena
+nao testar inifinitas conbinacaoes 
+quais testes nao devemos escrever e quais fazem sentido serem escritos
+
+testes repetidos / similares = classes de equivalencia
+um teste por classe de equivalencia
+ 
+- Inputs em ordem crescente
+- Inputs em ordem decrescente
+- Inputs em ordem randomica
+- apenas um registro de input
+
+Tratar o caso da lista com um elemento separado do caso da lista com vários elementos faz todo sentido.
+
+É muito comum, durante a implementação, pensarmos direto no caso complicado, e esquecermos de casos simples, mas que acontecem.
+
+ listas, por exemplo, :
+          caso da lista cheia, 
+          da lista com apenas um elemento, 
+          da lista vazia.
+          ordem crescente, 
+          decrescente, 
+          randômica.
+          vazia
+casos extremos
+
+if(salario>=2000)
+ precisa de três diferentes testes: 
+ 	- Um cenário com salário menor do que 2000 
+ 	- Um cenário com salário maior do que 2000 
+ 	- Um cenário com salário igual a 2000
+ 	
+ 
+A bateria de testes automatizados nos ajuda a encontrar problemas na nossa implementação de forma muito rápida: basta clicarmos em um botão, e alguns segundos depois sabemos se nossa implementação realmente funciona ou não.
+Sem uma bateria de testes, dificilmente pegaríamos esse bug em tempo de desenvolvimento. Testes manuais são caros e, por esse motivo, o desenvolvedor comumente testa apenas a funcionalidade atual, deixando de lado os testes de regressão (ou seja, testes para garantir que o resto do sistema ainda continua funcionando mesmo após a implementação da nova funcionalidade).
+
+É importante testarmos todos os caminhos possíveis do nosso código.
+
