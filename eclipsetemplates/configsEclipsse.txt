@@ -1,0 +1,10 @@
+preferences >> Java >> Editor >> Content assistent >>
+	insertion
+		|X| - insert common prefixes automatically
+	sorting and filtering
+		| | - hide proposal not visible in the invocation context
+
+preferences >> Java >> Editor >> 
+	automaticaly insert at correct position
+		|x| - semicolons
+		
