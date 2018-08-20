@@ -7,6 +7,8 @@ import java.util.Calendar;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
+import java.util.SortedSet;
 
 public class CreateFixture {
 	static String classname = "PessoaED";
@@ -25,16 +27,17 @@ public class CreateFixture {
 		public Calendar dataProcessoInscrito;
 		public BigDecimal valorProcesso;
 		public BigDecimal valorTotalProcesso;
-//		public InscricaoED inscricao;
-//		public PessoaProcessoED pessoaProcesso;
-//		public SituacaoProcessoEnum situacaoProcesso;
-//		public FaseED faseED;
-//		public Set<HistoricoInfracaoProcessoED> historicoInfracaoProcessoED;
-//		public SortedSet<InfracaoProcessoED> infracoesProcessoED;
-//		public Set<HistoricoProcessoFaseED> historicoProcessoFaseED;
-//		public Set<GuiaED> guias;
-//		public Set<MateriaDoeProcessoED> materiaDoeProcesso;
-//		public Set<RegistroArquivoCadinED> registrosArquivoCadin;
+		public InscricaoED inscricao;
+		public PessoaProcessoED pessoaProcesso;
+		public SituacaoProcessoEnum situacaoProcesso;
+		public FaseED faseED;
+		public Set<HistoricoInfracaoProcessoED> historicoInfracaoProcessoED;
+		public SortedSet<InfracaoProcessoED> infracoesProcessoED;
+		public Set<HistoricoProcessoFaseED> historicoProcessoFaseED;
+		public Set<GuiaED> guias;
+		public Set<MateriaDoeProcessoED> materiaDoeProcesso;
+		public Set<RegistroArquivoCadinED> registrosArquivoCadin;
+		public List<GuiaDividaAtivaGuiaInfracaoED> infracoesGuiaInformarSIT = new ArrayList<GuiaDividaAtivaGuiaInfracaoED>();
 
 		public int primitiveInt;
 		public double primDouble;
@@ -44,7 +47,6 @@ public class CreateFixture {
 		public byte primbyte;
 		public char primchar;
 		
-		public List<GuiaDividaAtivaGuiaInfracaoED> infracoesGuiaInformarSIT = new ArrayList<GuiaDividaAtivaGuiaInfracaoED>();
 
 		class PessoaProcessoED {};
 		class FaseED {};
